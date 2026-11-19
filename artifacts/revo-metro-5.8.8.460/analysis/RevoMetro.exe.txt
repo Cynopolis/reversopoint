@@ -1,0 +1,265 @@
+==========================================================================================
+extract/app/RevoMetro.exe   (29641472 bytes)
+  PE32+ machine=0x8664 imgbase=0x140000000 entry=0x2d77c subsys=2 sections=9 ts=1789104350 clr=0x0
+  SECTIONS:
+    .text      vaddr=0x1000       vsize=17030411   raddr=0x600        rsize=17030656
+    .rdata     vaddr=0x103f000    vsize=10176276   raddr=0x103e400    rsize=10176512
+    .data      vaddr=0x19f4000    vsize=380256     raddr=0x19f2c00    rsize=330240
+    .pdata     vaddr=0x1a51000    vsize=715680     raddr=0x1a43600    rsize=715776
+    .idata     vaddr=0x1b00000    vsize=408766     raddr=0x1af2200    rsize=409088
+    .tls       vaddr=0x1b64000    vsize=1164       raddr=0x1b56000    rsize=1536
+    .00cfg     vaddr=0x1b65000    vsize=373        raddr=0x1b56600    rsize=512
+    .rsrc      vaddr=0x1b66000    vsize=782268     raddr=0x1b56800    rsize=782336
+    .reloc     vaddr=0x1c25000    vsize=182307     raddr=0x1c15800    rsize=182784
+  IMPORTS (65 dlls):
+    opencv_world480.dll                        22    ?dilate@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@0V?$Point_@H@1@HHAEBV?$Scalar_@N@1@@Z, ?empty@Mat@cv@@QEBA_NXZ, ??0VideoCapture@cv@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z, ?zeros@Mat@cv@@SA?AVMatExpr@2@HHH@Z, ?getStructuringElement@cv@@YA?AVMat@1@HV?$Size_@H@1@V?$Point_@H@1@@Z, ?imwrite@cv@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@AEBV?$vector@HV?$allocator@H@std@@@3@@Z, ?get@VideoCapture@cv@@UEBANH@Z, ??1VideoCapture@cv@@UEAA@XZ, ?isOpened@VideoCapture@cv@@UEBA_NXZ, ?cvtColor@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@HH@Z, ?imread@cv@@YA?AVMat@1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z, ?clone@Mat@cv@@QEBA?AV12@XZ ...
+    zxPointCloudProcessing64.dll               191   ?Distance@Vector3@GPP@@QEBANAEBV12@@Z, ?Length@Vector3@GPP@@QEBANXZ, ?KeepPointCloudElements@GPP@@YAHPEAVIPointCloud@1@AEBV?$vector@HV?$allocator@H@std@@@std@@PEAV34@@Z, ??0ImageInfo@GPP@@QEAA@XZ, ?SetTriangleTexcoord@TriMesh@GPP@@QEAAXHHAEBVVector3@2@@Z, ?SetVertexColor@TriMesh@GPP@@QEAAXHAEBVColor4@2@@Z, ?SetHasTriangleTexCoord@TriMesh@GPP@@QEAAX_N@Z, ??HVector3@GPP@@QEBA?AV01@AEBV01@@Z, ?CopyPointCloud@GPP@@YAPEAVPointCloud@1@PEBV21@@Z, ??1ImageInfo@GPP@@QEAA@XZ, ??0Matrix4x4@GPP@@QEAA@N@Z, ?SetValue@Matrix4x4@GPP@@QEAAXHHN@Z ...
+    cspcpp.dll                                 205   ?SetEpipolarDir@MarkPointUtils@AS@@SAX_N@Z, ?setCamparam@MarkPointUtils@AS@@SA_NPEBD@Z, ?setRemapFlag@MarkPointUtils@AS@@SA_N_N@Z, ?setMarkerThreshold@MarkPointUtils@AS@@SA_NNNNHN@Z, ?setMarkerRadius@MarkPointUtils@AS@@SA_NAEBV?$vector@NV?$allocator@N@std@@@std@@@Z, ?setEllipseAbThreshold@MarkPointUtils@AS@@SA_NN@Z, ?CalcRecommendTextureSize@MeshTextureUtils@AS@@SAHAEBVTriMesh@GPP@@HH@Z, ?DeleteIsolation@Frontend@SLAM@AS@@SA_NPEAVIGridPointCloud@GPP@@NPEAV?$vector@HV?$allocator@H@std@@@std@@@Z, ?SetAbort@TextureUtils@SLAM@AS@@SAX_N@Z, ??0TextureUtils@SLAM@AS@@QEAA@XZ, ??1TextureUtils@SLAM@AS@@QEAA@XZ, ?ConcatPaths@FileUtils@AS@@SA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@0@Z ...
+    RPACalibrationQR.dll                       6     ??0CalibrationQR@calibrationqr@rpalgo@@QEAA@HHM@Z, ?SetZThreshold@CalibrationQR@calibrationqr@rpalgo@@QEAAXMMM@Z, ?SetYThreshold@CalibrationQR@calibrationqr@rpalgo@@QEAAXMMM@Z, ?SetXThreshold@CalibrationQR@calibrationqr@rpalgo@@QEAAXMMM@Z, ?Decode@CalibrationQR@calibrationqr@rpalgo@@QEAA?AW4QRCalibrationErrCode@23@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV?$vector@V?$Matrix@N$02$00$0A@$02$00@Eigen@@V?$aligned_allocator@V?$Matrix@N$02$00$0A@$02$00@Eigen@@@2@@6@@Z, ??1CalibrationQR@calibrationqr@rpalgo@@QEAA@XZ
+    SETUPAPI.dll                               4     SetupDiEnumDeviceInfo, SetupDiGetDevicePropertyW, SetupDiDestroyDeviceInfoList, SetupDiGetClassDevsW
+    libcurl.dll                                9     curl_slist_append, curl_easy_reset, curl_easy_getinfo, curl_easy_cleanup, curl_easy_perform, curl_easy_setopt, curl_easy_init, curl_easy_strerror, curl_slist_free_all
+    RPAAlgoKit.dll                             2     ?dumbGaugeDatasCalculate@FinalInspect@algokit@rpalgo@@QEAA?AW4FinInspErrorCode@23@AEAU?$pair@V?$vector@V?$Matrix@M$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@M$02$00$0A@$02$00@Eigen@@@std@@@std@@V12@@std@@AEAUParams@ShapeDetect@23@AEAUFinInsParams@23@AEAUDumbGaugeResult@23@@Z, ??1FinalInspect@algokit@rpalgo@@QEAA@XZ
+    RPAGeometry.dll                            16    ??1PointCloud@geometry@rpalgo@@UEAA@XZ, ?hasNormals@PointCloud@geometry@rpalgo@@QEBA_NXZ, ?hasColors@PointCloud@geometry@rpalgo@@QEBA_NXZ, ?init@PointCloud@geometry@rpalgo@@QEAAXAEBV?$vector@V?$Matrix@M$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@M$02$00$0A@$02$00@Eigen@@@std@@@std@@0@Z, ?init@PointCloud@geometry@rpalgo@@QEAAXAEBV?$vector@V?$Matrix@M$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@M$02$00$0A@$02$00@Eigen@@@std@@@std@@0AEBV?$vector@VColorRGBA8888@geometry@rpalgo@@V?$allocator@VColorRGBA8888@geometry@rpalgo@@@std@@@5@@Z, ?init@PointCloud@geometry@rpalgo@@QEAAXAEBV?$vector@V?$Matrix@M$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@M$02$00$0A@$02$00@Eigen@@@std@@@std@@0AEBV?$vector@VColorRGBA8888@geometry@rpalgo@@V?$allocator@VColorRGBA8888@geometry@rpalgo@@@std@@@5@AEBV?$vector@HV?$allocator@H@std@@@5@2_K3@Z, ?getCoordList@PointCloud@geometry@rpalgo@@QEBAAEBV?$vector@V?$Matrix@M$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@M$02$00$0A@$02$00@Eigen@@@std@@@std@@XZ, ?getNormalList@PointCloud@geometry@rpalgo@@QEBAAEBV?$vector@V?$Matrix@M$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@M$02$00$0A@$02$00@Eigen@@@std@@@std@@XZ, ?getColorList@PointCloud@geometry@rpalgo@@QEBAAEBV?$vector@VColorRGBA8888@geometry@rpalgo@@V?$allocator@VColorRGBA8888@geometry@rpalgo@@@std@@@std@@XZ, ?hasGridTopology@PointCloud@geometry@rpalgo@@QEBA_NXZ, ?getTriangleCount@TriangleMesh@geometry@rpalgo@@QEBAHXZ, ?getHeight@PointCloud@geometry@rpalgo@@QEBAHXZ ...
+    RPALaserRecon.dll                          3     ?getGPUDeviceInfo@MultiLaserReconPipelineGPU@laser_recon@rpalgo@@QEAA?AV?$vector@UGPUDeviceInfo@laser_recon@rpalgo@@V?$allocator@UGPUDeviceInfo@laser_recon@rpalgo@@@std@@@std@@XZ, ??1MultiLaserReconPipelineGPU@laser_recon@rpalgo@@QEAA@XZ, ??0MultiLaserReconPipelineGPU@laser_recon@rpalgo@@QEAA@XZ
+    Qt5Concurrent.dll                          19    ?isProgressReportingEnabled@ThreadEngineBase@QtConcurrent@@QEAA_NXZ, ?waitForResume@ThreadEngineBase@QtConcurrent@@QEAAXXZ, ?isCanceled@ThreadEngineBase@QtConcurrent@@QEAA_NXZ, ?startThread@ThreadEngineBase@QtConcurrent@@QEAAXXZ, ?setProgressValue@ThreadEngineBase@QtConcurrent@@QEAAXH@Z, ?setProgressRange@ThreadEngineBase@QtConcurrent@@QEAAXHH@Z, ??0ThreadEngineBase@QtConcurrent@@QEAA@XZ, ?acquireBarrierSemaphore@ThreadEngineBase@QtConcurrent@@QEAAXXZ, ??0BlockSizeManagerV2@QtConcurrent@@QEAA@H@Z, ?timeBeforeUser@BlockSizeManagerV2@QtConcurrent@@QEAAXXZ, ?timeAfterUser@BlockSizeManagerV2@QtConcurrent@@QEAAXXZ, ?blockSize@BlockSizeManagerV2@QtConcurrent@@QEAAHXZ ...
+    Qt5WebEngineWidgets.dll                    46    ?setFontSize@QWebEngineSettings@@QEAAXW4FontSize@1@H@Z, ?setFontFamily@QWebEngineSettings@@QEAAXW4FontFamily@1@AEBVQString@@@Z, ?stop@QWebEngineView@@QEAAXXZ, ?setWebChannel@QWebEnginePage@@QEAAXPEAVQWebChannel@@@Z, ?page@QWebEngineView@@QEBAPEAVQWebEnginePage@@XZ, ?runJavaScript@QWebEnginePage@@QEAAXAEBVQString@@AEBV?$QWebEngineCallback@AEBVQVariant@@@@@Z, ?metaObject@QWebEnginePage@@UEBAPEBUQMetaObject@@XZ, ?event@QWebEnginePage@@UEAA_NPEAVQEvent@@@Z, ?triggerAction@QWebEnginePage@@UEAAXW4WebAction@1@_N@Z, ?createWindow@QWebEnginePage@@MEAAPEAV1@W4WebWindowType@1@@Z, ?chooseFiles@QWebEnginePage@@MEAA?AVQStringList@@W4FileSelectionMode@1@AEBV2@1@Z, ?javaScriptAlert@QWebEnginePage@@MEAAXAEBVQUrl@@AEBVQString@@@Z ...
+    3DCamera.dll                               12    ?getCameraPtr@cs@@YA?AV?$shared_ptr@VICamera@cs@@@std@@XZ, leaveRecoveryMode, enterRecoveryMode, releaseUpgradeCamera, getUpgradeCameraProgress, upgradeCameraPro, ?restartRpcService@cs@@YAXXZ, ?setRPCConfig@cs@@YAXPEBDH@Z, ?setSdkConfigData@cs@@YAXPEBD@Z, ?getSystemPtr@cs@@YA?AV?$shared_ptr@VISystem@cs@@@std@@XZ, ?setLogSavePath@cs@@YAXPEBD@Z, ?enableLoging@cs@@YAX_N@Z
+    export_format.dll                          1     ?getModelExportPtr@rv@@YA?AV?$shared_ptr@VIModelExport@rv@@@std@@XZ
+    SmtpMime.dll                               28    ?toString@MimePart@@UEBA?AVQString@@XZ, ?getAddress@EmailAddress@@QEBA?AVQString@@XZ, ??1EmailAddress@@QEAA@XZ, ??0EmailAddress@@QEAA@AEBVQString@@0@Z, ??0MimeMessage@@QEAA@_N@Z, ??1MimeMessage@@UEAA@XZ, ?setSender@MimeMessage@@QEAAXAEBVEmailAddress@@@Z, ?writeContent@MimeText@@MEBAXAEAVQIODevice@@@Z, ?writeContent@MimeFile@@MEBAXAEAVQIODevice@@@Z, ?staticMetaObject@SmtpClient@@2UQMetaObject@@B, ??0MimeAttachment@@QEAA@PEAVQFile@@@Z, ?addRecipient@MimeMessage@@QEAAXAEBVEmailAddress@@W4RecipientType@1@@Z ...
+    PerfTool.dll                               11    ?getProgress@PerformanceTester@@QEAAHXZ, ?setConfigData@PerformanceTester@@QEAAXAEBVQByteArray@@@Z, ??1PerformanceTester@@UEAA@XZ, ??0PerformanceTester@@QEAA@MW4DeviceType@@_NVQString@@H@Z, ?finishTest@PerformanceTester@@QEAAXH@Z, ?staticMetaObject@PerformanceTester@@2UQMetaObject@@B, ?metaObject@PerformanceTester@@UEBAPEBUQMetaObject@@XZ, ?qt_metacast@PerformanceTester@@UEAAPEAXPEBD@Z, ?qt_metacall@PerformanceTester@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z, ?run@PerformanceTester@@MEAAXXZ, ?getPerformanceDveiceName@@YA?AVQString@@W4DeviceType@@@Z
+    qzxing.dll                                 8     ?encodeData@QZXing@@SA?AVQImage@@AEBVQString@@W4EncoderFormat@1@VQSize@@W4EncodeErrorCorrectionLevel@1@_N4@Z, ??0QZXing@@QEAA@PEAVQObject@@@Z, ??1QZXing@@UEAA@XZ, ?decodeImage@QZXing@@QEAA?AVQString@@AEBVQImage@@HH_N@Z, ?setDecoder@QZXing@@QEAAXAEBI@Z, ?qt_metacall@QZXing@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z, ?qt_metacast@QZXing@@UEAAPEAXPEBD@Z, ?metaObject@QZXing@@UEBAPEBUQMetaObject@@XZ
+    Qt5WebChannel.dll                          6     ?metaObject@QWebChannel@@UEBAPEBUQMetaObject@@XZ, ?qt_metacast@QWebChannel@@UEAAPEAXPEBD@Z, ?qt_metacall@QWebChannel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z, ?registerObject@QWebChannel@@QEAAXAEBVQString@@PEAVQObject@@@Z, ??1QWebChannel@@UEAA@XZ, ??0QWebChannel@@QEAA@PEAVQObject@@@Z
+    osg161-osg.dll                             869   ?compare@PointSprite@osg@@UEBAHAEBVStateAttribute@2@@Z, ?getModeUsage@CullFace@osg@@UEBA_NAEAUModeUsage@StateAttribute@2@@Z, ?compare@CullFace@osg@@UEBAHAEBVStateAttribute@2@@Z, ?getType@CullFace@osg@@UEBA?AW4Type@StateAttribute@2@XZ, ?className@CullFace@osg@@UEBAPEBDXZ, ?libraryName@CullFace@osg@@UEBAPEBDXZ, ?isSameKindAs@CullFace@osg@@UEBA_NPEBVObject@2@@Z, ?clone@CullFace@osg@@UEBAPEAVObject@2@AEBVCopyOp@2@@Z, ?cloneType@CullFace@osg@@UEBAPEAVObject@2@XZ, ?getModeUsage@PolygonOffset@osg@@UEBA_NAEAUModeUsage@StateAttribute@2@@Z, ?compare@PolygonOffset@osg@@UEBAHAEBVStateAttribute@2@@Z, ?getType@PolygonOffset@osg@@UEBA?AW4Type@StateAttribute@2@XZ ...
+    osg161-osgViewer.dll                       69    ?addEventHandler@View@osgViewer@@QEAAXPEAVEventHandler@osgGA@@@Z, ?removeEventHandler@View@osgViewer@@QEAAXPEAVEventHandler@osgGA@@@Z, ??0Viewer@osgViewer@@QEAA@XZ, ?cloneType@Viewer@osgViewer@@UEBAPEAVObject@osg@@XZ, ?clone@Viewer@osgViewer@@UEBAPEAVObject@osg@@AEBVCopyOp@4@@Z, ?isSameKindAs@Viewer@osgViewer@@UEBA_NPEBVObject@osg@@@Z, ?libraryName@Viewer@osgViewer@@UEBAPEBDXZ, ?className@Viewer@osgViewer@@UEBAPEBDXZ, ?resizeGLObjectBuffers@Viewer@osgViewer@@UEAAXI@Z, ?releaseGLObjects@Viewer@osgViewer@@UEBAXPEAVState@osg@@@Z, ??_DViewer@osgViewer@@QEAAXXZ, ??0ScreenCaptureHandler@osgViewer@@QEAA@PEAVCaptureOperation@01@H@Z ...
+    osg161-osgText.dll                         71    ?releaseGLObjects@Font@osgText@@UEBAXPEAVState@osg@@@Z, ?setText@TextBase@osgText@@QEAAXPEB_W@Z, ??1String@osgText@@QEAA@XZ, ??0String@osgText@@QEAA@PEB_W@Z, ??0String@osgText@@QEAA@XZ, ??1Glyph@osgText@@MEAA@XZ, ?setVerticalAdvance@Glyph@osgText@@QEAAXM@Z, ?setVerticalBearing@Glyph@osgText@@QEAAXAEBVVec2f@osg@@@Z, ?setHorizontalAdvance@Glyph@osgText@@QEAAXM@Z, ?setHorizontalBearing@Glyph@osgText@@QEAAXAEBVVec2f@osg@@@Z, ??0Glyph@osgText@@QEAA@PEAVFont@1@I@Z, ?resizeGLObjectBuffers@Font@osgText@@UEAAXI@Z ...
+    osg161-osgGA.dll                           112   ??1GUIEventAdapter@osgGA@@MEAA@XZ, ?asNodeCallback@EventHandler@osgGA@@UEAAPEAVNodeCallback@osg@@XZ, ?asNodeCallback@EventHandler@osgGA@@UEBAPEBVNodeCallback@osg@@XZ, ?asDrawableEventCallback@EventHandler@osgGA@@UEAAPEAVDrawableEventCallback@osg@@XZ, ?asDrawableEventCallback@EventHandler@osgGA@@UEBAPEBVDrawableEventCallback@osg@@XZ, ?asEventHandler@EventHandler@osgGA@@UEAAPEAV12@XZ, ?asEventHandler@EventHandler@osgGA@@UEBAPEBV12@XZ, ?run@EventHandler@osgGA@@UEAA_NPEAVObject@osg@@0@Z, ??0GUIEventHandler@osgGA@@QEAA@XZ, ?cloneType@GUIEventHandler@osgGA@@UEBAPEAVObject@osg@@XZ, ?clone@GUIEventHandler@osgGA@@UEBAPEAVObject@osg@@AEBVCopyOp@4@@Z, ?isSameKindAs@GUIEventHandler@osgGA@@UEBA_NPEBVObject@osg@@@Z ...
+    osg161-osgUtil.dll                         26    ??0IntersectionVisitor@osgUtil@@QEAA@PEAVIntersector@1@PEAUReadCallback@01@@Z, ??_DIntersectionVisitor@osgUtil@@QEAAXXZ, ??0LineSegmentIntersector@osgUtil@@QEAA@W4CoordinateFrame@Intersector@1@NN@Z, ??0Intersection@LineSegmentIntersector@osgUtil@@QEAA@AEBU012@@Z, ??1LineSegmentIntersector@osgUtil@@UEAA@XZ, ?containsIntersections@LineSegmentIntersector@osgUtil@@UEAA_NXZ, ?clone@LineSegmentIntersector@osgUtil@@UEAAPEAVIntersector@2@AEAVIntersectionVisitor@2@@Z, ?enter@LineSegmentIntersector@osgUtil@@UEAA_NAEBVNode@osg@@@Z, ?leave@LineSegmentIntersector@osgUtil@@UEAAXXZ, ?intersect@LineSegmentIntersector@osgUtil@@UEAAXAEAVIntersectionVisitor@2@PEAVDrawable@osg@@AEBVVec3d@5@2@Z, ?intersect@LineSegmentIntersector@osgUtil@@UEAAXAEAVIntersectionVisitor@2@PEAVDrawable@osg@@@Z, ?reset@LineSegmentIntersector@osgUtil@@UEAAXXZ ...
+    osg161-osgManipulator.dll                  66    ?setHandleEvents@Dragger@osgManipulator@@QEAAX_N@Z, ?addTransformUpdating@Dragger@osgManipulator@@QEAAXPEAVMatrixTransform@osg@@H@Z, ??0PointerInfo@osgManipulator@@QEAA@XZ, ?reset@PointerInfo@osgManipulator@@QEAAXXZ, ?setCamera@PointerInfo@osgManipulator@@QEAAXPEAVCamera@osg@@@Z, ?addIntersection@PointerInfo@osgManipulator@@QEAAXAEBV?$vector@PEAVNode@osg@@V?$allocator@PEAVNode@osg@@@std@@@std@@AEBVVec3d@osg@@@Z, ?setMousePosition@PointerInfo@osgManipulator@@QEAAXMM@Z, ?setParentDragger@CompositeDragger@osgManipulator@@UEAAXPEAVDragger@2@@Z, ?addDragger@CompositeDragger@osgManipulator@@UEAA_NPEAVDragger@2@@Z, ??0CompositeDragger@osgManipulator@@IEAA@XZ, ??1CompositeDragger@osgManipulator@@MEAA@XZ, ?clone@CompositeDragger@osgManipulator@@UEBAPEAVObject@osg@@AEBVCopyOp@4@@Z ...
+    ot21-OpenThreads.dll                       1     ??EAtomic@OpenThreads@@QEAAIXZ
+    RPAFusionTracker.dll                       3     ??0TrackerFrameInfo@fusiontracker@rpalgo@@QEAA@XZ, ??1TrackerFrameInfo@fusiontracker@rpalgo@@QEAA@XZ, ??3TrackerFrameInfo@fusiontracker@rpalgo@@SAXPEAX@Z
+    Qt5Network.dll                             58    ?post@QNetworkAccessManager@@QEAAPEAVQNetworkReply@@AEBVQNetworkRequest@@AEBVQByteArray@@@Z, ?setRawHeader@QNetworkRequest@@QEAAXAEBVQByteArray@@0@Z, ?staticMetaObject@QNetworkAccessManager@@2UQMetaObject@@B, ?isFinished@QNetworkReply@@QEBA_NXZ, ?finished@QNetworkAccessManager@@QEAAXPEAVQNetworkReply@@@Z, ?setRedirectPolicy@QNetworkAccessManager@@QEAAXW4RedirectPolicy@QNetworkRequest@@@Z, ?networkAccessible@QNetworkAccessManager@@QEBA?AW4NetworkAccessibility@1@XZ, ?setNetworkAccessible@QNetworkAccessManager@@QEAAXW4NetworkAccessibility@1@@Z, ?clearConnectionCache@QNetworkAccessManager@@QEAAXXZ, ?clearAccessCache@QNetworkAccessManager@@QEAAXXZ, ?setUrl@QNetworkRequest@@QEAAXAEBVQUrl@@@Z, ?metaObject@QNetworkAccessManager@@UEBAPEBUQMetaObject@@XZ ...
+    Qt5Widgets.dll                             1371  ?mouseReleaseEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z, ?mousePressEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z, ?heightForWidth@QLabel@@UEBAHH@Z, ?minimumSizeHint@QLabel@@UEBA?AVQSize@@XZ, ?sizeHint@QLabel@@UEBA?AVQSize@@XZ, ?event@QLabel@@MEAA_NPEAVQEvent@@@Z, ?metaObject@QLabel@@UEBAPEBUQMetaObject@@XZ, ?nextCheckState@QCheckBox@@MEAAXXZ, ?checkStateSet@QCheckBox@@MEAAXXZ, ?hitButton@QCheckBox@@MEBA_NAEBVQPoint@@@Z, ?paintEvent@QCheckBox@@MEAAXPEAVQPaintEvent@@@Z, ?focusOutEvent@QAbstractButton@@MEAAXPEAVQFocusEvent@@@Z ...
+    Qt5Gui.dll                                 341   ?convertToFormat_helper@QImage@@IEBA?AV1@W4Format@1@V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z, ?sizeInBytes@QImage@@QEBA_JXZ, ?load@QImage@@QEAA_NAEBVQString@@PEBD@Z, ?setMask@QPixmap@@QEAAXAEBVQBitmap@@@Z, ?fillRect@QPainter@@QEAAXHHHHW4GlobalColor@Qt@@@Z, ?boundingRect@QFontMetrics@@QEBA?AVQRect@@HHHHHAEBVQString@@HPEAH@Z, ??0QPen@@QEAA@AEBVQColor@@@Z, ?frameRect@QMovie@@QEBA?AVQRect@@XZ, ?documentLayout@QTextDocument@@QEBAPEAVQAbstractTextDocumentLayout@@XZ, ?setDocumentMargin@QTextDocument@@QEAAXN@Z, ?size@QTextDocument@@QEBA?AVQSizeF@@XZ, ?update@QAbstractTextDocumentLayout@@QEAAXAEBVQRectF@@@Z ...
+    Qt5Core.dll                                943   ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z, ?normalizedType@QMetaObject@@SA?AVQByteArray@@PEBD@Z, ?className@QMetaObject@@QEBAPEBDXZ, ?freeData@QMapDataBase@@SAXPEAU1@@Z, ?createData@QMapDataBase@@SAPEAU1@XZ, ?freeTree@QMapDataBase@@QEAAXPEAUQMapNodeBase@@H@Z, ?createNode@QMapDataBase@@QEAAPEAUQMapNodeBase@@HHPEAU2@_N@Z, ?recalcMostLeftNode@QMapDataBase@@QEAAXXZ, ?freeNodeAndRebalance@QMapDataBase@@QEAAXPEAUQMapNodeBase@@@Z, ?registerNormalizedTypedef@QMetaType@@SAHAEBVQByteArray@@H@Z, ?setColor@QMapNodeBase@@QEAAXW4Color@1@@Z, ?end@QListData@@QEBAPEAPEAXXZ ...
+    KERNEL32.dll                               144   GetModuleHandleExW, GetSystemTime, SetLastError, GetTickCount, GetLocalTime, CreateMutexW, WaitForSingleObject, ReleaseMutex, CreatePipe, ReadFile, TerminateThread, CreateThread ...
+    USER32.dll                                 10    GetWindowLongPtrW, SetWindowLongPtrW, MonitorFromWindow, GetMonitorInfoW, UnregisterClassW, GetProcessWindowStation, GetUserObjectInformationW, MessageBoxW, DefWindowProcW, GetSystemMetrics
+    SHELL32.dll                                6     CommandLineToArgvW, SHOpenFolderAndSelectItems, ShellExecuteW, SHFileOperationW, ?, ?
+    ole32.dll                                  3     CoCreateGuid, CoTaskMemFree, CoCreateInstance
+    OLEAUT32.dll                               1     ?
+    ADVAPI32.dll                               10    RegisterEventSourceW, ReportEventW, CryptAcquireContextW, CryptReleaseContext, CryptGenRandom, RegCloseKey, RegEnumKeyExW, DeregisterEventSource, RegOpenKeyExW, RegQueryValueExW
+    MSVCP140.dll                               258   ?id@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@2V0locale@2@A, ?_Getcat@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z, ?get@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@QEBA?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0AEAVios_base@2@AEAHPEAUtm@@PEBD4@Z, ?fail@ios_base@std@@QEBA_NXZ, ??Bid@locale@std@@QEAA_KXZ, ?gcount@?$basic_istream@DU?$char_traits@D@std@@@std@@QEBA_JXZ, ?eof@ios_base@std@@QEBA_NXZ, ?swap@?$basic_iostream@DU?$char_traits@D@std@@@std@@IEAAXAEAV12@@Z, ?seekp@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@_JH@Z, ?swap@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXAEAV12@@Z, ?overflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHH@Z, ?flags@ios_base@std@@QEAAHH@Z ...
+    imagehlp.dll                               8     SymFunctionTableAccess64, SymGetSymFromAddr64, SymInitialize, SymGetLineFromAddr64, SymGetModuleBase64, SymGetModuleInfo64, StackWalk64, SymCleanup
+    VCOMP140.DLL                               1     omp_get_max_threads
+    WS2_32.dll                                 37    ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ? ...
+    CRYPT32.dll                                4     CertOpenSystemStoreW, CertFreeCertificateContext, CertEnumCertificatesInStore, CertCloseStore
+    VCRUNTIME140.dll                           22    __current_exception_context, __std_type_info_destroy_list, _CxxThrowException, __current_exception, __C_specific_handler, strchr, memchr, __std_type_info_compare, __RTtypeid, _purecall, memset, memcmp ...
+    VCRUNTIME140_1.dll                         1     __CxxFrameHandler4
+    api-ms-win-crt-runtime-l1-1-0.dll          28    _invalid_parameter_noinfo_noreturn, _seh_filter_dll, _configure_narrow_argv, _initialize_narrow_environment, _initialize_onexit_table, abort, _beginthreadex, terminate, _register_onexit_function, _execute_onexit_table, _invalid_parameter_noinfo, _errno ...
+    api-ms-win-crt-string-l1-1-0.dll           21    isdigit, _wcsicmp, wcscmp, isspace, strcpy_s, strcpy, wmemcpy_s, strncmp, strcspn, strspn, strcat_s, _strdup ...
+    api-ms-win-crt-heap-l1-1-0.dll             7     malloc, _callnewh, _recalloc, _set_new_mode, calloc, realloc, free
+    api-ms-win-crt-math-l1-1-0.dll             29    _dclass, ceilf, round, _fdclass, floor, _ldclass, pow, sqrt, _isnan, roundf, sqrtf, cos ...
+    api-ms-win-crt-stdio-l1-1-0.dll            38    _fileno, _wfsopen, __stdio_common_vsscanf, ftell, fseek, fopen_s, fopen, _wfopen_s, ungetwc, fputwc, fgetwc, __stdio_common_vswprintf_s ...
+    api-ms-win-crt-time-l1-1-0.dll             7     _mktime64, strftime, _localtime64_s, _localtime64, _gmtime64_s, _mkgmtime64, _time64
+    api-ms-win-crt-locale-l1-1-0.dll           4     ___lc_codepage_func, localeconv, setlocale, _configthreadlocale
+    api-ms-win-crt-filesystem-l1-1-0.dll       21    _wsplitpath_s, _wmkdir, remove, _findclose, _findfirst64i32, _wremove, _findnext64i32, _wfindfirst64i32, _wfindnext64i32, _wrmdir, _mkdir, _rmdir ...
+    api-ms-win-crt-convert-l1-1-0.dll          10    strtoul, strtol, atoi, strtoll, strtof, strtoull, wcstombs, mbstowcs, atof, atoll
+    api-ms-win-crt-utility-l1-1-0.dll          3     qsort, rand, srand
+    simpleble.dll                              24    ?address@Peripheral@SimpleBLE@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ, ?rssi@Peripheral@SimpleBLE@@QEAAFXZ, ?initialized@Adapter@SimpleBLE@@QEBA_NXZ, ?scan_start@Adapter@SimpleBLE@@QEAAXXZ, ?scan_stop@Adapter@SimpleBLE@@QEAAXXZ, ?scan_for@Adapter@SimpleBLE@@QEAAXH@Z, ?scan_is_active@Adapter@SimpleBLE@@QEAA_NXZ, ?scan_get_results@Adapter@SimpleBLE@@QEAA?AV?$vector@VPeripheral@SimpleBLE@@V?$allocator@VPeripheral@SimpleBLE@@@std@@@std@@XZ, ?set_callback_on_scan_found@Adapter@SimpleBLE@@QEAAXV?$function@$$A6AXVPeripheral@SimpleBLE@@@Z@std@@@Z, ?bluetooth_enabled@Adapter@SimpleBLE@@SA_NXZ, ?set_callback_on_disconnected@Peripheral@SimpleBLE@@QEAAXV?$function@$$A6AXXZ@std@@@Z, ?set_callback_on_connected@Peripheral@SimpleBLE@@QEAAXV?$function@$$A6AXXZ@std@@@Z ...
+    aeSharpnessFineAlgorithm.dll               1     ?getAutoExposure@cs@@YA?AV?$shared_ptr@VIAutoExposure@cs@@@std@@XZ
+    cscalibration.dll                          21    ?ClibrationCheckImageBrightness@Calibration@CS@@YA_NPEBEHHHAEAH@Z, ?CalibrateCheckImageDefinition@Calibration@CS@@YA_NPEBEHHHAEAN@Z, ?ReconstructionPoints@CameraReconstruction@Calibration@CS@@QEAAHPEBE0HHHAEAV?$vector@V?$tuple@NNN@std@@V?$allocator@V?$tuple@NNN@std@@@2@@std@@AEAV?$vector@HV?$allocator@H@std@@@5@PEAV?$vector@NV?$allocator@N@std@@@5@@Z, ?ReconstructionPoints@CameraReconstruction@Calibration@CS@@QEAAHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEAV?$vector@V?$tuple@NNN@std@@V?$allocator@V?$tuple@NNN@std@@@2@@5@AEAV?$vector@HV?$allocator@H@std@@@5@PEAV?$vector@NV?$allocator@N@std@@@5@@Z, ?setIsImage@CameraReconstruction@Calibration@CS@@QEAAX_N@Z, ?getTargetInfo@CameraReconstruction@Calibration@CS@@QEAAPEBUBaseCalibrationTargetInfo@23@XZ, ?setWorkDir@CameraReconstruction@Calibration@CS@@QEAA?AW4CalibrationErrorCode@23@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH@Z, ??1CameraReconstruction@Calibration@CS@@QEAA@XZ, ??0CameraReconstruction@Calibration@CS@@QEAA@XZ, ?CalibrateCheckFrameValid@CameraCalibration@Calibration@CS@@QEAA_NPEBEHHH@Z, ?CalibrationCheckByIndex@CameraCalibration@Calibration@CS@@QEAA?AW4CalibrationErrorCode@23@HAEAM000V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NMM@Z, ?CalibrationCheck@CameraCalibration@Calibration@CS@@QEAA?AW4CalibrationErrorCode@23@HAEAM000V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z ...
+    assimp-vc142-mt.dll                        4     ?ReadFileFromMemory@Importer@Assimp@@QEAAPEBUaiScene@@PEBX_KIPEBD@Z, ??0Importer@Assimp@@QEAA@XZ, ??1aiScene@@QEAA@XZ, ??1Importer@Assimp@@QEAA@XZ
+    RPALaserAutoExposure.dll                   4     ?Init@LaserAutoExposure@laserautoexposure@rpalgo@@QEAA_NAEBULaserAutoExposureConfig@23@@Z, ?AutoExposure@LaserAutoExposure@laserautoexposure@rpalgo@@QEAA?AULaserAutoExposureResult@23@AEBVMat@cv@@0AEBV?$vector@V?$vector@MV?$allocator@M@std@@@std@@V?$allocator@V?$vector@MV?$allocator@M@std@@@std@@@2@@std@@HN@Z, ??1LaserAutoExposure@laserautoexposure@rpalgo@@QEAA@XZ, ??0LaserAutoExposure@laserautoexposure@rpalgo@@QEAA@XZ
+    RPATexture.dll                             6     ?generateTexture@RPTScene@rpalgo@@QEAA_NAEBURPTParam@2@AEAVTriMesh@GPP@@AEAVMat@cv@@@Z, ?getTextureProgress@RPTScene@rpalgo@@QEBAHXZ, ??1RPTScene@rpalgo@@QEAA@XZ, ??0RPTScene@rpalgo@@QEAA@XZ, ?setSceneParam@RPTScene@rpalgo@@QEAA_NAEBURPTCamera@2@AEBV?$vector@URPTTextureFrame@rpalgo@@V?$allocator@URPTTextureFrame@rpalgo@@@std@@@std@@AEBVTriMesh@GPP@@@Z, ?resetTextureProgress@RPTScene@rpalgo@@QEAAXXZ
+    RPARegisterLandmark.dll                    1     ?align@RegisterLandmark@landmark@registration@rpalgo@@SA?AW4ErrorCode@234@AEBV?$vector@V?$Matrix@N$02$00$0A@$02$00@Eigen@@V?$allocator@V?$Matrix@N$02$00$0A@$02$00@Eigen@@@std@@@std@@PEBV67@01PEBV?$KDTreeMathVectorAdaptor@N$02Umetric_L2_Simple@nanoflann@@H@geometry@4@AEBVParam@1234@AEAVRegistrationResult@34@@Z
+    RPACalibLaser.dll                          9     ?calibrateLaserPlane@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHH0AEAULaserPlaneCaliResult@23@@Z, ?setWorkDir@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0AEBULaserCalibParam@23@_N@Z, ?fastAdjustLaserPlane@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@HHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?fastAdjustSingleLaserPlane@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@HHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z, ?calibrateLaserPlaneCheckByIndex@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@HHAEAV?$vector@ULaserPlaneCheckResult@calib_laser@rpalgo@@V?$allocator@ULaserPlaneCheckResult@calib_laser@rpalgo@@@std@@@std@@_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@6@@Z, ?calibrateSingleLaserPlaneCheckByIndex@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@HHAEAV?$vector@ULaserPlaneCheckResult@calib_laser@rpalgo@@V?$allocator@ULaserPlaneCheckResult@calib_laser@rpalgo@@@std@@@std@@_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@6@@Z, ??0CalibLaser@calib_laser@rpalgo@@QEAA@XZ, ??1CalibLaser@calib_laser@rpalgo@@QEAA@XZ, ?calibrateSingleLaserPlane@CalibLaser@calib_laser@rpalgo@@QEAA?AW4CalibLaserErrorCode@23@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HH0AEAULaserPlaneCaliResult@23@@Z
+    RPAMeshProc.dll                            2     ?decimate@MeshDecimate@meshproc@rpalgo@@SA?AUDecimateResult@23@AEAVTriangleMesh@geometry@3@AEBUDecimateSettings@23@@Z, ?denoise@MeshDenoiseSD@meshproc@rpalgo@@SA_NAEAVTriangleMesh@geometry@3@AEBUSDMeshDenoisingParams@23@AEBV?$function@$$A6A_NM@Z@std@@@Z
+    RPAMeshRecon.dll                           1     ?triangulate@meshrecon@rpalgo@@YA?AV?$shared_ptr@VTriangleMesh@geometry@rpalgo@@@std@@AEBVPointCloud@geometry@2@AEBUTriangulationParameters@12@AEBV?$function@$$A6A_NM@Z@4@@Z
+    RPABridge.dll                              2     ?toGPP@MeshConv@bridge@rpalgo@@SA_NAEBVTriangleMesh@geometry@3@AEAVTriMesh@GPP@@@Z, ?toRPA@PointCloudConv@bridge@rpalgo@@SA_NAEBVPointCloud@GPP@@AEAV4geometry@3@H@Z
+    api-ms-win-crt-environment-l1-1-0.dll      1     getenv
+    IPHLPAPI.DLL                               2     GetAdaptersAddresses, GetAdaptersInfo
+  EXPORTS  (1): ord_27211248
+  RESOURCES: {'ICON': 1, 'T16': 1, 'T0': 1, 'CURSOR': 1}
+  STRINGS: ascii=95124 utf16=781  kw={'licensing': 50, 'cloud': 14, 'update': 6, 'crypto': 120, 'hw': 18, 'security': 8, 'api': 5}
+  URLs (39):
+    http://
+Connection established
+(?:(https?):)?(?://(?:
+    http://%s
+%s HTTP/1.0
+OSSL_HTTP_REQ_CTX_add1_header
+OSSL_HTTP_REQ_CTX_set_expected
+set1_content
+keep-alive
+Content-Type: %s
+Content-Length: %ld
+HTTP/1.
+parse_http_line1
+code=%s
+code=%s, reason=%s
+content=%s
+
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+z5N0[~
+0l0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+5FjiT
+~qj#k
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+:U|r*C
+o84s[
+a:m1&
+GlobalSign nv-sa1)0
+    http://ns.adobe.com/xap/1.0/
+    http://ns.adobe.com/xap/1.0/mm/
+    http://ns.adobe.com/xap/1.0/sType/Dimensions#
+    http://ns.adobe.com/xap/1.0/sType/ResourceEvent#
+    http://ns.adobe.com/xap/1.0/sType/ResourceRef#
+    http://ns.adobe.com/xmp/1.0/DynamicMedia/
+    http://ocsp.digicert.com0A
+5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+
+    http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+
+    http://ocsp.digicert.com0]
+Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+X0V0T
+Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+kxXgMt
+
+    http://ocsp.globalsign.com/codesigningrootr450F
+:http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+:0806
+0http://crl.globalsign.com/codesigningrootr45.crl0U
+N0L0A
+&https://www.globalsign.com/repos
+    http://purl.org/dc/elements/1.1/
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+3http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+N0L0A
+&https://www.globalsign.com/repository/0
+@0
+    http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    http://www.w3.org/1999/xlink
+    http://www.w3.org/2000/svg
+    https://api.infly3d.com/ota/version/info
+ja_JP
+v%1.%2.%3.%4
+sw_version
+FFFFFFFFFFFFFM151
+sw_sn
+sn_code
+deploy
+user_version_string
+version_desc_language
+[ota] download ota complete
+[ota] OTAManager slotDownloa
+    https://api.infly3d.com/software/version/info
+pt_BR
+is newest revo scan version
+post server fail
+parse data fail
+parse data content fail
+check upgrade success
+__cdecl AppTrack::~AppTrack(void)
+D:
+    https://deviceregistration.chishine3d.com/device/active
+Style
+RVE_SUCCESS
+RVE_FAILED
+RVE_ERROR_PARAM
+RVE_SCANNER_NULL_POINTER
+RVE_SCANNER_NOT_FOUND
+RVE_SCANNER_NOT_CONNECT
+RVE_SCANNER_DISCONNECT
+RVE_SCANNER_B
+    https://download.revopoint3d.com/model/
+QWidget {background-color: #333333; border-radius: 12px;} 
+QWidget {background-color: #292929; border-radius: 12px;}
+QWidget {background-color: #2A2A2A; border-radius: 
+    https://global.revopoint3d.com/products/geomagic
+GeomagicControlX exe not exist
+Geomagic Control X 
+GeomagicControlX exe path: 
+can
+    https://revo.ink/3C2jNei
+it_IT
+https://revo.ink/3DPoSHy
+de_DE
+https://revo.ink/3DMMVXq
+https://revo.ink/MteroXfirstlook
+https://www.revopoint3d.com/support/
+https://www.revopoint3d.com.cn/support/
+https://for
+    https://revopedia.revopoint3d.com/en/Revometro/Usermanual
+https://www.revopoint3d.com/pages/revoscan-5-video
+https://www.bilibili.com/video/BV1wVCVY9EzR/?spm_id_from=333.1387.upload.video_card.click
+https://y
+    https://ssrstatic.infly3d.com/video/resource_download/device/
+imgdata.zip
+promptScan
+Check need to gyro calibration, isSupportGyro=
+The last gyro calibration time is 
+ POP 3 
+The last gyro calibration time is
+    https://support.revopoint3d.com/hc/en-us/articles/7940056659867-How-do-I-use-the-Dual-axis-Turntable
+/tutorial/usermanual
+%1_%2.html
+tutorial
+%1/%2
+https://revopedia.revopoint3d.com/zh/RevoMetro/Usermanual
+ht
+    https://support.revopoint3d.com/hc/en-us/articles/7940064660891-How-do-I-use-the-handheld-stabilizer
+HKEY_LOCAL_MACHINE
+    https://www.baidu.com
+    https://www.revopoint3d.com.cn
+https://www.revopoint3d.com
+measure_
+measure model path: 
+revo measure open error: 
+Revo Measure 
+Geomagic Control X 
+Geomagic Control X
+https://www.revopoint3d.jp/products/geom
+    https://www.revopoint3d.com.cn/download-center-2/
+Revo Scan 5
+void __cdecl RvMainWindow::actionSetShortcut(int,class QKeySequence)
+actionSetShortcut failed, can
+    https://www.revopoint3d.com.cn/download.html
+https://www.revopoint3d.jp/pages/support-download
+https://global.revopoint3d.com/pages/support-download
+QWidget{background-color: #3A3A3A;}
+QLabel{ border: null; b
+    https://www.revopoint3d.com.cn/index.php?c=category&id=81
+https://www.revopoint3d.com/pages/user-agreement
+https://www.revopoint3d.com.cn/yszc.html
+https://www.revopoint3d.com/pages/revoscan-privacy-policy
+th
+    https://www.revopoint3d.com.cn/revodesign/501.html
+https://www.revopoint3d.com/pages/support-download
+revo design exe not exist
+Revo Design 
+design exe path: 
+can
+    https://www.revopoint3d.com/
+    https://www.surveymonkey.com/r/YZ7F23R
+feedbackMainTip
+Revo Metro
+feedbackTextTip
+feedbackTextEdit
+feedbackEmailTip
+feedbackEmailTextTip
+feedbackEmailTextLine
+feedbackEmailErrorTip
+feedbackAddTip
+feedbackAddB
+    https://zhixiangguangdian.datasink.sensorsdata.cn/sa?project=production&token=ed54f98774390307
+$os_version
+kernelVersion
+cpu_architecture
+build_cpu_architecture
+$screen_width
+$screen_height
+screen_number
+Revo
+  EMAILS: ['againTransfer@2x.png', 'appro@openssl.org', 'customer@revopoint3d.com', 'icon_camera_exposure_disable@2x.png', 'icon_camera_exposure_normal@2x.png', 'icon_check_delete@2x.png', 'icon_check_disable@2x.png', 'icon_check_normal@2x.png', 'icon_check_select_red@2x.png', 'icon_check_select_white@2x.png', 'icon_engine_net@2x.png', 'icon_engine_net_disable@2x.png', 'icon_engine_picture@2x.png', 'icon_engine_pointcloud@2x.png', 'icon_engine_pointcloud_disable@2x.png', 'icon_list_arrange@2x.png', 'icon_list_arrange_down@2x.png', 'icon_list_arrange_up@2x.png', 'img_false@2x.png', 'rdreg@chishine3d.com']

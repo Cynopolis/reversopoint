@@ -1,0 +1,40 @@
+# ============================================================================
+# Revo Metro RE — .gitignore
+# Keep: docs (*.md), protocol/ clients, scripts/, analysis/ (text evidence),
+#       and the parsed extract/*.json manifests.
+# Skip: big/re-derivable binaries, extracted app payload, caches, machine state.
+# ============================================================================
+
+# ---- Machine / agent harness state (paths are host-specific) ----
+.pi/
+*.log
+
+# ---- Python caches ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- Original installer (≈700 MB; re-downloadable) ----
+/*.exe
+
+# ---- Extracted application payload (≈1 GB; re-extractable via scripts/) ----
+# Keep the parsed manifests (meta.json, blocks.json, extraction_report.json) —
+# they are small JSON and are the useful structured output. Ignore the rest:
+artifacts/*/extract/app/
+artifacts/*/extract/localappdata/
+artifacts/*/extract/tmp/
+# raw intermediate blobs (meta.bin, block_*.bin, meta_*.bin)
+artifacts/*/extract/*.bin
+artifacts/*/extract/*.err
+
+# ---- Download scratch dir (per AGENTS.md: holds fetched tools) ----
+download/
+
+# ---- Editor / OS noise ----
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

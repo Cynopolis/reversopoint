@@ -1,0 +1,1109 @@
+### ALL URLS across binaries ###
+==========================================================================================
+RevoMetro.exe
+  urls (65):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ns.adobe.com/xap/1.0/
+    http://ns.adobe.com/xap/1.0/mm/
+    http://ns.adobe.com/xap/1.0/sType/Dimensions#
+    http://ns.adobe.com/xap/1.0/sType/ResourceEvent#
+    http://ns.adobe.com/xap/1.0/sType/ResourceRef#
+    http://ns.adobe.com/xmp/1.0/DynamicMedia/
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://purl.org/dc/elements/1.1/
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    http://www.w3.org/1999/02/22-rdf-syntax-ns#
+    http://www.w3.org/1999/xlink
+    http://www.w3.org/2000/svg
+    https://api.infly3d.com/ota/version/info
+    https://api.infly3d.com/software/version/info
+    https://deviceregistration.chishine3d.com/device/active
+    https://download.revopoint3d.com/model/
+    https://forum.revopoint3d.com/
+    https://global.revopoint3d.com/pages/support-download
+    https://global.revopoint3d.com/products/geomagic
+    https://revo.ink/3C2jNei
+    https://revo.ink/3DMMVXq
+    https://revo.ink/3DPoSHy
+    https://revo.ink/MteroXfirstlook
+    https://revopedia.revopoint3d.com/en/Revometro/Usermanual
+    https://revopedia.revopoint3d.com/ja/Revometro/Usermanual
+    https://revopedia.revopoint3d.com/zh/RevoMetro/Usermanual
+    https://ssrstatic.infly3d.com/video/resource_download/device/
+    https://support.revopoint3d.com/hc/en-us/articles/7940056659867-How-do-I-use-the-Dual-axis-Turntable
+    https://support.revopoint3d.com/hc/en-us/articles/7940064660891-How-do-I-use-the-handheld-stabilizer
+    https://www.baidu.com
+    https://www.bilibili.com/video/BV1wVCVY9EzR/?spm_id_from=333.1387.upload.video_card.click
+    https://www.globalsign.com/repository/0
+    https://www.revopoint3d.com
+    https://www.revopoint3d.com.cn
+    https://www.revopoint3d.com.cn/download-center-2/
+    https://www.revopoint3d.com.cn/download.html
+    https://www.revopoint3d.com.cn/index.php?c=category&id=81
+    https://www.revopoint3d.com.cn/revodesign/501.html
+    https://www.revopoint3d.com.cn/support/
+    https://www.revopoint3d.com.cn/yszc.html
+    https://www.revopoint3d.com/
+    https://www.revopoint3d.com/pages/revoscan-5-video
+    https://www.revopoint3d.com/pages/revoscan-privacy-policy
+    https://www.revopoint3d.com/pages/support-download
+    https://www.revopoint3d.com/pages/user-agreement
+    https://www.revopoint3d.com/support/
+    https://www.revopoint3d.jp/pages/support-download
+  activation (12):
+    Activat
+    BinD
+    Bind
+    Register
+    Unlock
+    activat
+    bInd
+    bind
+    device/active
+    register
+    subscription
+    unlock
+  licensing_keys (62):
+    AUTHORITY_INFO_ACCESS
+    AUTHORITY_KEYID
+    Activation
+    ActivationIconTextBtn
+    Auth
+    AuthANY
+    AuthDSS
+    AuthECDSA
+    AuthGOST01
+    AuthGOST12
+    AuthNULL
+    AuthPSK
+    AuthRSA
+    AuthReqTBE
+    AuthReqTBS
+    AuthResBaggage
+    AuthResTBE
+    AuthResTBEX
+    AuthResTBS
+    AuthResTBSX
+    AuthRevReqBaggage
+    AuthRevReqTBE
+    AuthRevReqTBS
+    AuthRevResBaggage
+    AuthRevResData
+    AuthRevResTBE
+    AuthRevResTBEB
+    AuthRevResTBS
+    AuthSRP
+    AuthTokenTBE
+    AuthTokenTBS
+    Authenticate
+    Authentication
+    Authoritative
+    Authority
+    Authorization
+    Serial
+    Token
+    activate
+    activateWindow
+    activated
+    activation
+    activationDeviceSerial
+    auth
+    authData
+    authEnvelopedData
+    auth_attr
+    authenticationInfo
+    authenticator
+    authority
+    authorityInfoAccess
+    authorityKeyIdentifier
+    authorityRevocationList
+    authsafes
+    expired
+    expiredTime
+    guid
+    serial
+    sn_code
+    sw_sn
+  ota_update (15):
+    DownloadComplete
+    Firmware
+    Slot
+    UPDATE
+    UPGRADE
+    Update
+    Upgrade
+    download ota complete
+    firmware
+    oTA
+    ota
+    slot
+    update
+    upgrade
+    version/info
+  telemetry (11):
+    Analytics
+    AppTrack
+    Report
+    TRACK
+    Track
+    analytics
+    apptrack
+    report
+    stat
+    track
+    upload
+  rve_codes (128):
+    RVE_ALIGNING_LOW_OVERLAP_RATE
+    RVE_ALIGN_GLOBAL_REGISTRATION_ERROR
+    RVE_ALIGN_PAINTED_POINT_SIZE_WRONG
+    RVE_CALIBRATION_ERROR
+    RVE_CALIBRATION_PARAM_ERROR
+    RVE_CANNOT_EXPORT_IN_STL
+    RVE_CANNOT_READ_TEXTURE
+    RVE_ERROR_PARAM
+    RVE_EXPORT_DIR_SPACE_NOT_ENOUGH
+    RVE_FAILED
+    RVE_FAILED_TO_MERGE
+    RVE_FIELDSSIZE_NOT_EQUAL_3VERTEXSIZE
+    RVE_FILE_NOT_EXIST
+    RVE_FS_DEVICE_BUSY
+    RVE_FS_NET_CONNECT_FAIL
+    RVE_FS_POINTER_NULL
+    RVE_FS_SERVER_ON_RESPONSE
+    RVE_FS_SERVE_NOT_STATR
+    RVE_FS_SYSTEM_ERROR
+    RVE_FS_TRANS_SESSION_DISABLE
+    RVE_FS_VERITY_CODE_ERROR
+    RVE_FS_WORK_PATH_NOT_EXIST
+    RVE_HANDLER_NO_DATA_DETECTED
+    RVE_MESHING_EXCEPTION
+    RVE_NONE_POINT_EXTRACTED
+    RVE_NOT_DETECT_HOLES
+    RVE_OTA_DOWNLOAD_FAIL
+    RVE_OTA_ENTER_RECOVERY_FAIL
+    RVE_OTA_LEAVE_RECOVERY_FAIL
+    RVE_OTA_NO_NETWORK
+    RVE_OTA_PACKAGE_MD5_ERROR
+    RVE_OTA_PACKAGE_NOT_EXIST
+    RVE_OTA_UPGRADE_START_FAIL
+    RVE_OTA_UPGRADING_FAIL
+    RVE_OTA_VERSION_EXCEPTION
+    RVE_PITCH_IS_TOO_SMALL
+    RVE_POINTCLOUD_POINT_NUMBER_INVALID
+    RVE_PRJ_ADD_GROUP_FAILED
+    RVE_PRJ_CANNOT_BE_CHILD
+    RVE_PRJ_CANNOT_HAVE_CHILD
+    RVE_PRJ_CONVERT_CANCEL
+    RVE_PRJ_CONVERT_FAILED
+    RVE_PRJ_CREAT_FAILED
+    RVE_PRJ_DELETE_FAILED
+    RVE_PRJ_DIR_CONVERT_PROJECT_EXIST
+    RVE_PRJ_DIR_NOT_EMPTY
+    RVE_PRJ_DIR_NOT_EXIST
+    RVE_PRJ_DIR_SPACE_NOT_ENOUGH
+    RVE_PRJ_FILE_PARSE_FAIL
+    RVE_PRJ_GET_FAILED
+    RVE_PRJ_IMPORT_FAILED
+    RVE_PRJ_INIT_FAILED
+    RVE_PRJ_LOAD_BYTE_DATA_FAILED
+    RVE_PRJ_LOAD_FAILED
+    RVE_PRJ_MAKE_DIR_FAILED
+    RVE_PRJ_MOVE_FAILED
+    RVE_PRJ_NODE_NOT_EXIST
+    RVE_PRJ_OPEN_FILE_FAILED
+    RVE_PRJ_POINTER_NULL
+    RVE_PRJ_SAVE_FAILED
+==========================================================================================
+3DCamera.dll
+  urls (59):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    file://%s%s%s
+    file:///etc/xml/catalog
+    file://localhost/
+    ftp://upload.ffmpeg.org/incoming/
+    http://%s%s
+    http://%s/cgi-bin/zx_cmd.cgi?cam_type=cif&set_aa_reg=2&reg_val=%d
+    http://%s/cgi-bin/zx_cmd.cgi?cam_type=mipi&set_display_reso=1&&set_display_width=%d&&set_display_height=%d&&set_display_type=%d
+    http://%s/cgi-bin/zx_cmd.cgi?cam_type=usb&set_resolution=1&width=%d&height=%d
+    http://%s:%d%s
+    http://0.0.0.0:%d
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://dashif.org/guidelines/last-segment-number
+    http://lame.sf.net
+    http://localhost:%d
+    http://ns.adobe.com/f4m/1.0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://relaxng.org/ns/structure/1.0
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
+    http://www.brynosaurus.com/cachedir/
+    http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd
+    http://www.videolan.org/x264.html
+    http://www.w3.org/1999/xhtml
+    http://www.w3.org/1999/xlink
+    http://www.w3.org/2000/xmlns
+    http://www.w3.org/2000/xmlns/
+    http://www.w3.org/2001/SMIL20/Language
+    http://www.w3.org/2001/XInclude
+    http://www.w3.org/2001/XMLSchema
+    http://www.w3.org/2001/XMLSchema-datatypes
+    http://www.w3.org/2001/XMLSchema-instance
+    http://www.w3.org/2002/08/xquery-functions
+    http://www.w3.org/2003/XInclude
+    http://www.w3.org/TR/REC-html40/loose.dtd
+    http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd
+    http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+    http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+    http://www.w3.org/XML/1998/namespace
+    http://x265.org
+    https://curl.se/docs/alt-svc.html
+    https://curl.se/docs/hsts.html
+    https://curl.se/docs/http-cookies.html
+    https://gnu.org/licenses/
+    https://gnu.org/licenses/gpl.html
+    https://www.globalsign.com/repository/0
+    proto://host[:port]/app.
+    s://%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+  activation (11):
+    ACTIVAT
+    BIND
+    Bind
+    REGISTER
+    Register
+    Unlock
+    activat
+    bind
+    register
+    trial
+    unlock
+  licensing_keys (50):
+    AUTH
+    AUTHENTICATE
+    AUTHENTICATION
+    AUTHH
+    AUTHOR
+    Auth
+    AuthcAMDenti
+    AuthenticAMD
+    Authenticate
+    AuthenticatedSafe
+    Authentication
+    Author
+    Authority
+    AuthorityInfoAccessSyntax
+    AuthorityKeyIdentifier
+    Authorization
+    Authorizer
+    Expires
+    GUID
+    License
+    Serial
+    activate
+    activated
+    activation
+    activation_bytes
+    auth
+    authSafe
+    auth_algs
+    auth_methods
+    auth_rsa
+    auth_rsa_psk
+    auth_safe
+    auth_type
+    authenticate
+    authenticated
+    authentication
+    authfailed
+    authmod
+    author
+    authorityCertIssuer
+    authorityCertSerialNumber
+    authorization
+    authorize
+    expire
+    expired
+    expires
+    guid
+    license
+    serial
+    token
+  ota_update (15):
+    DownloadComplete
+    DownloadProgressComplete
+    Firmware
+    OtA
+    SLOT
+    Slot
+    Update
+    Upgrade
+    download complete
+    firmware
+    oTA
+    ota
+    slot
+    update
+    upgrade
+  telemetry (9):
+    Report
+    Stat
+    TRACK
+    Track
+    Upload
+    report
+    stat
+    track
+    upload
+==========================================================================================
+cspcpp.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (7):
+    Activat
+    Bind
+    Register
+    Unlock
+    bind
+    register
+    unlock
+  licensing_keys (7):
+    Authu
+    Expire
+    authority
+    authorization
+    authorized
+    authorizer
+    token
+  ota_update (4):
+    Slot
+    UPDATE
+    Update
+    update
+  telemetry (5):
+    Report
+    Track
+    report
+    stat
+    track
+==========================================================================================
+zxPointCloudProcessing64.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (6):
+    Activat
+    REGISTER
+    Register
+    Unlock
+    register
+    unlock
+  licensing_keys (3):
+    ActivateGrid
+    AuthA
+    Authu
+  ota_update (2):
+    Update
+    update
+  telemetry (4):
+    Stat
+    Track
+    telemetry
+    track
+==========================================================================================
+RPAAlgoKit.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (5):
+    Activat
+    Register
+    Unlock
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  ota_update (1):
+    Slot
+==========================================================================================
+RPAGeometry.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (2):
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  ota_update (2):
+    Slot
+    update
+==========================================================================================
+RPALaserRecon.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (3):
+    Bind
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  ota_update (1):
+    update
+==========================================================================================
+RPAFusionTracker.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (3):
+    Register
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  telemetry (2):
+    Track
+    track
+==========================================================================================
+RPATexture.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (3):
+    Unlock
+    register
+    unlock
+  licensing_keys (2):
+    AuthenticAMD
+    Authu
+==========================================================================================
+RPARegisterLandmark.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (4):
+    Register
+    Unlock
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  ota_update (1):
+    update
+  telemetry (1):
+    Report
+==========================================================================================
+RPACalibLaser.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (3):
+    Unlock
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+==========================================================================================
+RPAMeshProc.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (3):
+    Unlock
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  ota_update (4):
+    Slot
+    Update
+    slot
+    update
+  telemetry (1):
+    Report
+==========================================================================================
+RPAMeshRecon.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (2):
+    register
+    unlock
+  ota_update (1):
+    slot
+==========================================================================================
+RPABridge.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (5):
+    Activat
+    Register
+    Unlock
+    register
+    unlock
+  licensing_keys (1):
+    Authu
+  ota_update (2):
+    Update
+    update
+==========================================================================================
+export_format.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (3):
+    Unlock
+    register
+    unlock
+  telemetry (1):
+    track
+==========================================================================================
+simpleble.dll
+  urls (16):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+  activation (4):
+    Activat
+    Unlock
+    register
+    unlock
+  licensing_keys (1):
+    AuthD
+  ota_update (1):
+    update
+==========================================================================================
+PerfTool.dll
+  urls (18):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    VO://22&*,-+=7,#
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    https://www.globalsign.com/repository/0
+    j79://.,D88+0
+  activation (5):
+    BIND
+    Register
+    activat
+    register
+    unlock
+  licensing_keys (1):
+    activate
+  ota_update (1):
+    OTA
+  telemetry (2):
+    staT
+    track
+==========================================================================================
+ConversionTool.exe
+  urls (18):
+    Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+    Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+    http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+    http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+    http://crl.globalsign.com/codesigningrootr45.crl0U
+    http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+    http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+    http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+    http://ocsp.digicert.com0A
+    http://ocsp.digicert.com0C
+    http://ocsp.digicert.com0]
+    http://ocsp.globalsign.com/codesigningrootr450F
+    http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+    http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+    http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+    http://www.w3.org/1999/xlink
+    http://www.w3.org/2000/svg
+    https://www.globalsign.com/repository/0
+  activation (6):
+    Activat
+    Register
+    Unlock
+    activat
+    register
+    unlock
+  licensing_keys (4):
+    activate
+    activateWindow
+    activated
+    token
+  ota_update (5):
+    Slot
+    Update
+    firmware
+    slot
+    update
+  telemetry (3):
+    Report
+    TRACK
+    report
+  Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0
+  Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+  VO://22&*,-+=7,#
+  file://%s%s%s
+  file:///etc/xml/catalog
+  file://localhost/
+  ftp://upload.ffmpeg.org/incoming/
+  http://%s%s
+  http://%s/cgi-bin/zx_cmd.cgi?cam_type=cif&set_aa_reg=2&reg_val=%d
+  http://%s/cgi-bin/zx_cmd.cgi?cam_type=mipi&set_display_reso=1&&set_display_width=%d&&set_display_height=%d&&set_display_type=%d
+  http://%s/cgi-bin/zx_cmd.cgi?cam_type=usb&set_resolution=1&width=%d&height=%d
+  http://%s:%d%s
+  http://0.0.0.0:%d
+  http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+  http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+  http://crl.globalsign.com/codesigningrootr45.crl0U
+  http://crl.globalsign.com/gsgccr45evcodesignca2020.crl0
+  http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+  http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+  http://dashif.org/guidelines/last-segment-number
+  http://lame.sf.net
+  http://localhost:%d
+  http://ns.adobe.com/f4m/1.0
+  http://ns.adobe.com/xap/1.0/
+  http://ns.adobe.com/xap/1.0/mm/
+  http://ns.adobe.com/xap/1.0/sType/Dimensions#
+  http://ns.adobe.com/xap/1.0/sType/ResourceEvent#
+  http://ns.adobe.com/xap/1.0/sType/ResourceRef#
+  http://ns.adobe.com/xmp/1.0/DynamicMedia/
+  http://ocsp.digicert.com0A
+  http://ocsp.digicert.com0C
+  http://ocsp.digicert.com0]
+  http://ocsp.globalsign.com/codesigningrootr450F
+  http://ocsp.globalsign.com/gsgccr45evcodesignca20200U
+  http://purl.org/dc/elements/1.1/
+  http://relaxng.org/ns/structure/1.0
+  http://secure.globalsign.com/cacert/codesigningrootr45.crt0A
+  http://secure.globalsign.com/cacert/gsgccr45evcodesignca2020.crt0?
+  http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
+  http://www.brynosaurus.com/cachedir/
+  http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd
+  http://www.videolan.org/x264.html
+  http://www.w3.org/1999/02/22-rdf-syntax-ns#
+  http://www.w3.org/1999/xhtml
+  http://www.w3.org/1999/xlink
+  http://www.w3.org/2000/svg
+  http://www.w3.org/2000/xmlns
+  http://www.w3.org/2000/xmlns/
+  http://www.w3.org/2001/SMIL20/Language
+  http://www.w3.org/2001/XInclude
+  http://www.w3.org/2001/XMLSchema
+  http://www.w3.org/2001/XMLSchema-datatypes
+  http://www.w3.org/2001/XMLSchema-instance
+  http://www.w3.org/2002/08/xquery-functions
+  http://www.w3.org/2003/XInclude
+  http://www.w3.org/TR/REC-html40/loose.dtd
+  http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd
+  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+  http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  http://www.w3.org/XML/1998/namespace
+  http://x265.org
+  https://api.infly3d.com/ota/version/info
+  https://api.infly3d.com/software/version/info
+  https://curl.se/docs/alt-svc.html
+  https://curl.se/docs/hsts.html
+  https://curl.se/docs/http-cookies.html
+  https://deviceregistration.chishine3d.com/device/active
+  https://download.revopoint3d.com/model/
+  https://forum.revopoint3d.com/
+  https://global.revopoint3d.com/pages/support-download
+  https://global.revopoint3d.com/products/geomagic
+  https://gnu.org/licenses/
+  https://gnu.org/licenses/gpl.html
+  https://revo.ink/3C2jNei
+  https://revo.ink/3DMMVXq
+  https://revo.ink/3DPoSHy
+  https://revo.ink/MteroXfirstlook
+  https://revopedia.revopoint3d.com/en/Revometro/Usermanual
+  https://revopedia.revopoint3d.com/ja/Revometro/Usermanual
+  https://revopedia.revopoint3d.com/zh/RevoMetro/Usermanual
+  https://ssrstatic.infly3d.com/video/resource_download/device/
+  https://support.revopoint3d.com/hc/en-us/articles/7940056659867-How-do-I-use-the-Dual-axis-Turntable
+  https://support.revopoint3d.com/hc/en-us/articles/7940064660891-How-do-I-use-the-handheld-stabilizer
+  https://www.baidu.com
+  https://www.bilibili.com/video/BV1wVCVY9EzR/?spm_id_from=333.1387.upload.video_card.click
+  https://www.globalsign.com/repository/0
+  https://www.revopoint3d.com
+  https://www.revopoint3d.com.cn
+  https://www.revopoint3d.com.cn/download-center-2/
+  https://www.revopoint3d.com.cn/download.html
+  https://www.revopoint3d.com.cn/index.php?c=category&id=81
+  https://www.revopoint3d.com.cn/revodesign/501.html
+  https://www.revopoint3d.com.cn/support/
+  https://www.revopoint3d.com.cn/yszc.html
+  https://www.revopoint3d.com/
+  https://www.revopoint3d.com/pages/revoscan-5-video
+  https://www.revopoint3d.com/pages/revoscan-privacy-policy
+  https://www.revopoint3d.com/pages/support-download
+  https://www.revopoint3d.com/pages/user-agreement
+  https://www.revopoint3d.com/support/
+  https://www.revopoint3d.jp/pages/support-download
+  https://www.revopoint3d.jp/products/geomagic
+  https://www.surveymonkey.com/r/YZ7F23R
+  https://youtu.be/NQHgbhSKmz8
+  https://zhixiangguangdian.datasink.sensorsdata.cn/sa?project=production&token=ed54f98774390307
+  j79://.,D88+0
+  proto://host[:port]/app.
+  s://%s%s%s
+  s://%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+
+### ALL RVE_ ERROR CODES ###
+  RVE_ALIGNING_LOW_OVERLAP_RATE
+  RVE_ALIGN_GLOBAL_REGISTRATION_ERROR
+  RVE_ALIGN_PAINTED_POINT_SIZE_WRONG
+  RVE_CALIBRATION_ERROR
+  RVE_CALIBRATION_PARAM_ERROR
+  RVE_CANNOT_EXPORT_IN_STL
+  RVE_CANNOT_READ_TEXTURE
+  RVE_ERROR_PARAM
+  RVE_EXPORT_DIR_SPACE_NOT_ENOUGH
+  RVE_FAILED
+  RVE_FAILED_TO_MERGE
+  RVE_FIELDSSIZE_NOT_EQUAL_3VERTEXSIZE
+  RVE_FILE_NOT_EXIST
+  RVE_FS_DEVICE_BUSY
+  RVE_FS_NET_CONNECT_FAIL
+  RVE_FS_POINTER_NULL
+  RVE_FS_SERVER_ON_RESPONSE
+  RVE_FS_SERVE_NOT_STATR
+  RVE_FS_SYSTEM_ERROR
+  RVE_FS_TRANS_SESSION_DISABLE
+  RVE_FS_VERITY_CODE_ERROR
+  RVE_FS_WORK_PATH_NOT_EXIST
+  RVE_HANDLER_NO_DATA_DETECTED
+  RVE_MESHING_EXCEPTION
+  RVE_NONE_POINT_EXTRACTED
+  RVE_NOT_DETECT_HOLES
+  RVE_OTA_DOWNLOAD_FAIL
+  RVE_OTA_ENTER_RECOVERY_FAIL
+  RVE_OTA_LEAVE_RECOVERY_FAIL
+  RVE_OTA_NO_NETWORK
+  RVE_OTA_PACKAGE_MD5_ERROR
+  RVE_OTA_PACKAGE_NOT_EXIST
+  RVE_OTA_UPGRADE_START_FAIL
+  RVE_OTA_UPGRADING_FAIL
+  RVE_OTA_VERSION_EXCEPTION
+  RVE_PITCH_IS_TOO_SMALL
+  RVE_POINTCLOUD_POINT_NUMBER_INVALID
+  RVE_PRJ_ADD_GROUP_FAILED
+  RVE_PRJ_CANNOT_BE_CHILD
+  RVE_PRJ_CANNOT_HAVE_CHILD
+  RVE_PRJ_CONVERT_CANCEL
+  RVE_PRJ_CONVERT_FAILED
+  RVE_PRJ_CREAT_FAILED
+  RVE_PRJ_DELETE_FAILED
+  RVE_PRJ_DIR_CONVERT_PROJECT_EXIST
+  RVE_PRJ_DIR_NOT_EMPTY
+  RVE_PRJ_DIR_NOT_EXIST
+  RVE_PRJ_DIR_SPACE_NOT_ENOUGH
+  RVE_PRJ_FILE_PARSE_FAIL
+  RVE_PRJ_GET_FAILED
+  RVE_PRJ_IMPORT_FAILED
+  RVE_PRJ_INIT_FAILED
+  RVE_PRJ_LOAD_BYTE_DATA_FAILED
+  RVE_PRJ_LOAD_FAILED
+  RVE_PRJ_MAKE_DIR_FAILED
+  RVE_PRJ_MOVE_FAILED
+  RVE_PRJ_NODE_NOT_EXIST
+  RVE_PRJ_OPEN_FILE_FAILED
+  RVE_PRJ_POINTER_NULL
+  RVE_PRJ_SAVE_FAILED
+  RVE_PRJ_SET_FAILED
+  RVE_PRJ_UNKNOWN_PROPERTY
+  RVE_PROCESS_FALIED
+  RVE_SCANNER_BUSY
+  RVE_SCANNER_CALLBACK
+  RVE_SCANNER_DATA_TIMEOUT
+  RVE_SCANNER_DISCONNECT
+  RVE_SCANNER_GET_INFOS
+  RVE_SCANNER_GET_PARAM_FAILED
+  RVE_SCANNER_GET_USER_DATA_FAILED
+  RVE_SCANNER_GET_USER_DATA_NOT_EXIST
+  RVE_SCANNER_GET_WIFI_MODE
+  RVE_SCANNER_GET_WIFI_PARAM
+  RVE_SCANNER_INIT_DRIVER
+  RVE_SCANNER_NAME_MAP_NULL
+  RVE_SCANNER_NAME_NULL
+  RVE_SCANNER_NOT_CONNECT
+  RVE_SCANNER_NOT_FOUND
+  RVE_SCANNER_NOT_SUPPORT
+  RVE_SCANNER_NOT_SUPPORT_TEMP
+  RVE_SCANNER_NO_WIFI_HOST
+  RVE_SCANNER_NULL_POINTER
+  RVE_SCANNER_OTHER
+  RVE_SCANNER_PARAM
+  RVE_SCANNER_RESTART_FAILED
+  RVE_SCANNER_SET_PARAM_FAILED
+  RVE_SCANNER_SET_USER_DATA_FAILED
+  RVE_SCANNER_SET_WIFI_MODE
+  RVE_SCANNER_SET_WIFI_PARAM
+  RVE_SCANNER_SN_ERROR
+  RVE_SCANNER_SN_NULL
+  RVE_SCANNER_STREAM_NOT_PAUSE
+  RVE_SCANNER_STREAM_NOT_START
+  RVE_SCANNER_STREAM_NOT_STOP
+  RVE_SCANNER_VERSION_ERROR
+  RVE_SCAN_DATA
+  RVE_SCAN_FUSE_FAILED
+  RVE_SCAN_MESH_FAILED
+  RVE_SCAN_NULL_POINTER
+  RVE_SCAN_PARAM
+  RVE_SCAN_REDO_END
+  RVE_SCAN_REMOVE_FAILED
+  RVE_SCAN_TEXTURE_COLOR_FAILED
+  RVE_SCAN_TEXTURE_FAILED
+  RVE_SCAN_TEXTURE_GEN_IMAGE_FAILED
+  RVE_SCAN_TEXTURE_MESH_MANIFOLD_FAILED
+  RVE_SCAN_TEXTURE_NO_FRAME
+  RVE_SCAN_TEXTURE_NO_MESH
+  RVE_SCAN_TEXTURE_NO_VERTEXCOLOR
+  RVE_SCAN_TEXTURE_TUNE_CREATER_SLAM_FAILED
+  RVE_SCAN_TEXTURE_TUNE_IMAGE_FAILED
+  RVE_SCAN_TEXTURE_TUNE_SAVE_FAILED
+  RVE_SCAN_TEXTURE_UV_UNFOLD_FAILED
+  RVE_SCAN_UNDO_END
+  RVE_SCAN_UNKNOW
+  RVE_SUCCESS
+  RVE_TARGET_POINTS_TOO_MANY
+  RVE_TARGET_TRIANGLES_TOO_MANY
+  RVE_TRACKER_SCANNER_DEINIT_FAILED
+  RVE_TRACKER_SCANNER_INIT_FAILED
+  RVE_TRACKER_SCANNER_STREAM_NOT_PAUSE
+  RVE_TRACKER_SCANNER_STREAM_NOT_RESUME
+  RVE_TRACKER_SCANNER_STREAM_NOT_START
+  RVE_TRACKER_SCANNER_STREAM_NOT_STOP
+  RVE_TRIANGLE_MESH_EMPTY
+  RVE_UNKNOWN
+  RVE_UNKNOWN_SUFFIX
+  RVE_UPDATE_POINTCLOUD_NORMAL__FAILED

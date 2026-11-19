@@ -1,0 +1,2188 @@
+==========================================================================================
+RevoMetro.exe
+  Qt5Widgets.dll                         1371
+      QLabel::mouseReleaseEvent
+      QLabel::mousePressEvent
+      QLabel::heightForWidth
+      QLabel::minimumSizeHint
+      QLabel::sizeHint
+      QLabel::event
+      QLabel::metaObject
+      QCheckBox::nextCheckState
+      QCheckBox::checkStateSet
+      QCheckBox::hitButton
+      QCheckBox::paintEvent
+      QAbstractButton::focusOutEvent
+      QAbstractButton::focusInEvent
+      QAbstractButton::keyPressEvent
+      QCheckBox::mouseMoveEvent
+      QCheckBox::minimumSizeHint
+      QCheckBox::sizeHint
+      QCheckBox::event
+      QCheckBox::qt_metacall
+      QCheckBox::qt_metacast
+      QCheckBox::metaObject
+      QMenu::focusNextPrevChild
+      QMenu::changeEvent
+      QMenu::hideEvent
+      QMenu::actionEvent
+      ... +1346 more
+  Qt5Core.dll                             943
+      QMetaObject::activate
+      QMetaObject::normalizedType
+      QMetaObject::className
+      QMapDataBase::freeData
+      QMapDataBase::createData
+      QMapDataBase::freeTree
+      QMapDataBase::createNode
+      QMapDataBase::recalcMostLeftNode
+      QMapDataBase::freeNodeAndRebalance
+      QMetaType::registerNormalizedTypedef
+      QMapNodeBase::setColor
+      QListData::end
+      QListData::begin
+      QListData::size
+      QListData::dispose
+      QListData::detach
+      QString::fromAscii_helper
+      ?4QString
+      ?4QString (thiscall)
+      QString::<dtor>
+      QString::<ctor>
+      QByteArray::append
+      QByteArray::append
+      QByteArray::append
+      QByteArray::endsWith
+      ... +918 more
+  osg161-osg.dll                          869
+      osg::PointSprite::compare
+      osg::CullFace::getModeUsage
+      osg::CullFace::compare
+      osg::CullFace::getType
+      osg::CullFace::className
+      osg::CullFace::libraryName
+      osg::CullFace::isSameKindAs
+      osg::CullFace::clone
+      osg::CullFace::cloneType
+      osg::PolygonOffset::getModeUsage
+      osg::PolygonOffset::compare
+      osg::PolygonOffset::getType
+      osg::PolygonOffset::className
+      osg::PolygonOffset::libraryName
+      osg::PolygonOffset::isSameKindAs
+      osg::PolygonOffset::clone
+      osg::PolygonOffset::cloneType
+      osg::PointSprite::isTextureAttribute
+      osg::PointSprite::getModeUsage
+      osg::PointSprite::getType
+      osg::PointSprite::className
+      osg::PointSprite::libraryName
+      osg::PointSprite::isSameKindAs
+      osg::PointSprite::clone
+      osg::PointSprite::cloneType
+      ... +844 more
+  Qt5Gui.dll                              341
+      QImage::convertToFormat_helper
+      QImage::sizeInBytes
+      QImage::load
+      QPixmap::setMask
+      QPainter::fillRect
+      QFontMetrics::boundingRect
+      QPen::<ctor>
+      QMovie::frameRect
+      QTextDocument::documentLayout
+      QTextDocument::setDocumentMargin
+      QTextDocument::size
+      QAbstractTextDocumentLayout::update
+      QAbstractTextDocumentLayout::staticMetaObject
+      QIcon::<ctor>
+      QMovie::state
+      QMovie::stop
+      QPixmap::toImage
+      QFontMetrics::horizontalAdvance
+      QPainter::drawImage
+      QWindow::setFlags
+      QWindow::show
+      QFont::setBold
+      QIcon::<ctor>
+      QPixmap::<ctor>
+      QPalette::color
+      ... +316 more
+  MSVCP140.dll                            258
+      std::D::DU?$char_traits::DV?$istreambuf_iterator::?$time_get::id
+      std::D::DU?$char_traits::DV?$istreambuf_iterator::?$time_get::_Getcat
+      std::D::DU?$char_traits::DV?$istreambuf_iterator::?$time_get::get
+      std::ios_base::fail
+      std::locale::?Bid
+      std::D::DU?$char_traits::?$basic_istream::gcount
+      std::ios_base::eof
+      std::D::DU?$char_traits::?$basic_iostream::swap
+      std::D::DU?$char_traits::?$basic_ostream::seekp
+      std::D::DU?$char_traits::?$basic_streambuf::swap
+      std::D::DU?$char_traits::?$basic_streambuf::overflow
+      std::ios_base::flags
+      std::D::DU?$char_traits::?5?$basic_istream
+      std::D::DU?$char_traits::?$basic_streambuf::pbackfail
+      std::D::DU?$char_traits::?$basic_streambuf::underflow
+      std::D::DU?$char_traits::?$basic_streambuf::seekoff
+      std::D::DU?$char_traits::?$basic_streambuf::seekpos
+      std::setprecision
+      std::D::DU?$char_traits::?_D?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::ios_base::precision
+      std::ios_base::rdstate
+      std::_Random_device
+      std::D::DU?$char_traits::?$basic_ios::copyfmt
+      _Thrd_hardware_concurrency
+      ... +233 more
+  cspcpp.dll                              205
+      AS::MarkPointUtils::SetEpipolarDir
+      AS::MarkPointUtils::setCamparam
+      AS::MarkPointUtils::setRemapFlag
+      AS::MarkPointUtils::setMarkerThreshold
+      AS::MarkPointUtils::setMarkerRadius
+      AS::MarkPointUtils::setEllipseAbThreshold
+      AS::MeshTextureUtils::CalcRecommendTextureSize
+      AS::SLAM::Frontend::DeleteIsolation
+      AS::SLAM::TextureUtils::SetAbort
+      AS::SLAM::TextureUtils::<ctor>
+      AS::SLAM::TextureUtils::<dtor>
+      AS::FileUtils::ConcatPaths
+      AS::SLAM::TextureUtils::textureByVertexColor (stdcall)
+      AS::SLAM::TextureUtils::textureByColorImage (stdcall)
+      AS::SLAM::TextureUtils::getProgress
+      AS::FileUtils::GetLowerCaseFileExtension
+      AS::FileUtils::GetFileExtension
+      AS::SLAM::TextureUtils::resetProgress
+      AS::SLAM::TextureUtils::setTextureParameterizedType
+      AS::FileUtils::GetFilePath
+      AS::SLAM::TextureUtils::save
+      AS::SLAM::Manager::<ctor>
+      AS::FileUtils::GetFileNameNoExt
+      AS::SLAM::Manager::init
+      AS::SLAM::Manager::init
+      ... +180 more
+  zxPointCloudProcessing64.dll            191
+      GPP::Vector3::Distance
+      GPP::Vector3::Length
+      GPP::KeepPointCloudElements
+      GPP::ImageInfo::<ctor>
+      GPP::TriMesh::SetTriangleTexcoord
+      GPP::TriMesh::SetVertexColor
+      GPP::TriMesh::SetHasTriangleTexCoord
+      GPP::?HVector3 (thiscall)
+      GPP::CopyPointCloud
+      GPP::ImageInfo::<dtor>
+      GPP::Matrix4x4::<ctor>
+      GPP::Matrix4x4::SetValue
+      GPP::?DMatrix4x4 (thiscall)
+      GPP::PointCloud::<ctor>
+      GPP::TriMesh::ExtractPointCloud
+      GPP::CalculateTriMeshBoundingBox
+      GPP::TransformPointCloud
+      GPP::PointCloudNormal::Compute
+      GPP::Profiler::GetTime
+      GPP::LogSystem::Get
+      GPP::LogSystem::GetLogStream
+      GPP::LogSystem::SetIsOpen
+      GPP::Matrix4x4::AffineInverse
+      GPP::TransformTriMesh
+      GPP::ResetApiProgress
+      ... +166 more
+  KERNEL32.dll                            144
+      GetModuleHandleExW
+      GetSystemTime
+      SetLastError
+      GetTickCount
+      GetLocalTime
+      CreateMutexW
+      WaitForSingleObject
+      ReleaseMutex
+      CreatePipe
+      ReadFile
+      TerminateThread
+      CreateThread
+      RaiseException
+      OutputDebugStringW
+      InitializeSListHead
+      QueryPerformanceCounter
+      GetStartupInfoW
+      IsProcessorFeaturePresent
+      TerminateProcess
+      UnhandledExceptionFilter
+      RtlVirtualUnwind
+      RtlLookupFunctionEntry
+      RtlCaptureContext
+      WakeAllConditionVariable
+      CreateSymbolicLinkW
+      ... +119 more
+  osg161-osgGA.dll                        112
+      osgGA::GUIEventAdapter::<dtor>
+      osgGA::EventHandler::asNodeCallback
+      osgGA::EventHandler::asNodeCallback
+      osgGA::EventHandler::asDrawableEventCallback
+      osgGA::EventHandler::asDrawableEventCallback
+      osgGA::EventHandler::asEventHandler
+      osgGA::EventHandler::asEventHandler
+      osgGA::EventHandler::run
+      osgGA::GUIEventHandler::<ctor>
+      osgGA::GUIEventHandler::cloneType
+      osgGA::GUIEventHandler::clone
+      osgGA::GUIEventHandler::isSameKindAs
+      osgGA::GUIEventHandler::libraryName
+      osgGA::GUIEventHandler::className
+      osgGA::GUIEventHandler::<dtor>
+      osgGA::EventQueue::windowResize
+      osgGA::EventQueue::getTime
+      osgGA::StandardManipulator::setVerticalAxisFixed
+      osgGA::OrbitManipulator::getCenter
+      osgGA::OrbitManipulator::setWheelZoomFactor
+      osgGA::TrackballManipulator::<ctor>
+      osgGA::TrackballManipulator::cloneType
+      osgGA::TrackballManipulator::clone
+      osgGA::TrackballManipulator::isSameKindAs
+      osgGA::TrackballManipulator::libraryName
+      ... +87 more
+  osg161-osgText.dll                       71
+      osgText::Font::releaseGLObjects
+      osgText::TextBase::setText
+      osgText::String::<dtor>
+      osgText::String::<ctor>
+      osgText::String::<ctor>
+      osgText::Glyph::<dtor>
+      osgText::Glyph::setVerticalAdvance
+      osgText::Glyph::setVerticalBearing
+      osgText::Glyph::setHorizontalAdvance
+      osgText::Glyph::setHorizontalBearing
+      osgText::Glyph::<ctor>
+      osgText::Font::resizeGLObjectBuffers
+      osgText::Font::setThreadSafeRefUnref
+      osgText::Font::hasVertical
+      osgText::Font::getGlyph3D
+      osgText::Font::getGlyph
+      osgText::Font::getKerning
+      osgText::Font::getFileName
+      osgText::TextBase::createVertexArrayStateImplementation
+      osgText::TextBase::assignStateSet
+      osgText::TextBase::computeBoundingBox
+      osgText::TextBase::compileGLObjects
+      osgText::TextBase::setFont
+      osgText::TextBase::setFont
+      osgText::Text::computePositionsImplementation
+      ... +46 more
+  osg161-osgViewer.dll                     69
+      osgViewer::View::addEventHandler
+      osgViewer::View::removeEventHandler
+      osgViewer::Viewer::<ctor>
+      osgViewer::Viewer::cloneType
+      osgViewer::Viewer::clone
+      osgViewer::Viewer::isSameKindAs
+      osgViewer::Viewer::libraryName
+      osgViewer::Viewer::className
+      osgViewer::Viewer::resizeGLObjectBuffers
+      osgViewer::Viewer::releaseGLObjects
+      osgViewer::?_DViewer
+      osgViewer::ScreenCaptureHandler::<ctor>
+      osgViewer::ScreenCaptureHandler::setFramesToCapture
+      osgViewer::?_DScreenCaptureHandler
+      osgViewer::View::asView
+      osgViewer::View::home
+      osgViewer::View::getCameraManipulator
+      osgViewer::View::setCameraManipulator
+      osgViewer::View::getViewerBase
+      osgViewer::GraphicsWindow::getEventQueue
+      osgViewer::CompositeViewer::checkEvents
+      osgViewer::CompositeViewer::advance
+      osgViewer::CompositeViewer::eventTraversal
+      osgViewer::CompositeViewer::updateTraversal
+      osgViewer::CompositeViewer::getCameras
+      ... +44 more
+  osg161-osgManipulator.dll                66
+      osgManipulator::Dragger::setHandleEvents
+      osgManipulator::Dragger::addTransformUpdating
+      osgManipulator::PointerInfo::<ctor>
+      osgManipulator::PointerInfo::reset
+      osgManipulator::PointerInfo::setCamera
+      osgManipulator::PointerInfo::addIntersection
+      osgManipulator::PointerInfo::setMousePosition
+      osgManipulator::CompositeDragger::setParentDragger
+      osgManipulator::CompositeDragger::addDragger
+      osgManipulator::CompositeDragger::<ctor>
+      osgManipulator::CompositeDragger::<dtor>
+      osgManipulator::CompositeDragger::clone
+      osgManipulator::CompositeDragger::accept
+      osgManipulator::CompositeDragger::getComposite
+      osgManipulator::CompositeDragger::getComposite
+      osgManipulator::Dragger::traverse
+      osgManipulator::Dragger::handle
+      osgManipulator::Dragger::receive
+      osgManipulator::Dragger::dispatch
+      osgManipulator::CompositeDragger::handle
+      osgManipulator::CompositeDragger::removeDragger
+      osgManipulator::CompositeDragger::setIntersectionMask
+      osgManipulator::setDrawableToAlwaysCull
+      osgManipulator::setMaterialColor
+      osgManipulator::Translate1DDragger::<ctor>
+      ... +41 more
+  Qt5Network.dll                           58
+      QNetworkAccessManager::post
+      QNetworkRequest::setRawHeader
+      QNetworkAccessManager::staticMetaObject
+      QNetworkReply::isFinished
+      QNetworkAccessManager::finished
+      QNetworkAccessManager::setRedirectPolicy
+      QNetworkAccessManager::networkAccessible
+      QNetworkAccessManager::setNetworkAccessible
+      QNetworkAccessManager::clearConnectionCache
+      QNetworkAccessManager::clearAccessCache
+      QNetworkRequest::setUrl
+      QNetworkAccessManager::metaObject
+      QNetworkAccessManager::qt_metacast
+      QNetworkAccessManager::qt_metacall
+      QNetworkAccessManager::createRequest
+      QNetworkReply::downloadProgress
+      QNetworkReply::error
+      QNetworkReply::finished
+      QNetworkReply::attribute
+      QNetworkReply::error
+      QNetworkReply::request
+      QNetworkAccessManager::get
+      QNetworkAccessManager::<dtor>
+      QNetworkAccessManager::<ctor>
+      QNetworkRequest::url
+      ... +33 more
+  Qt5WebEngineWidgets.dll                  46
+      QWebEngineSettings::setFontSize
+      QWebEngineSettings::setFontFamily
+      QWebEngineView::stop
+      QWebEnginePage::setWebChannel
+      QWebEngineView::page
+      QWebEnginePage::runJavaScript
+      QWebEnginePage::metaObject
+      QWebEnginePage::event
+      QWebEnginePage::triggerAction
+      QWebEnginePage::createWindow
+      QWebEnginePage::chooseFiles
+      QWebEnginePage::javaScriptAlert
+      QWebEnginePage::javaScriptConfirm
+      QWebEnginePage::javaScriptPrompt
+      QWebEnginePage::javaScriptConsoleMessage
+      QWebEnginePage::certificateError
+      QWebEnginePage::acceptNavigationRequest
+      QWebEnginePage::urlChanged
+      QWebEnginePage::<dtor>
+      QWebEnginePage::<ctor>
+      QWebEngineView::metaObject
+      QWebEngineView::event
+      QWebEngineView::sizeHint
+      QWebEngineView::contextMenuEvent
+      QWebEngineView::dragEnterEvent
+      ... +21 more
+  api-ms-win-crt-stdio-l1-1-0.dll          38
+      _fileno
+      _wfsopen
+      __stdio_common_vsscanf
+      ftell
+      fseek
+      fopen_s
+      fopen
+      _wfopen_s
+      ungetwc
+      fputwc
+      fgetwc
+      __stdio_common_vswprintf_s
+      __stdio_common_vswprintf
+      __stdio_common_vsprintf_s
+      __stdio_common_vsprintf
+      setvbuf
+      fwrite
+      _fseeki64
+      fsetpos
+      fread
+      fputc
+      fgetpos
+      fgetc
+      fflush
+      fclose
+      ... +13 more
+  WS2_32.dll                               37
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      WSASocketW
+      getaddrinfo
+      freeaddrinfo
+      getnameinfo
+      
+      
+      
+      ... +12 more
+  api-ms-win-crt-math-l1-1-0.dll           29
+      _dclass
+      ceilf
+      round
+      _fdclass
+      floor
+      _ldclass
+      pow
+      sqrt
+      _isnan
+      roundf
+      sqrtf
+      cos
+      sinf
+      tan
+      acosf
+      ceil
+      floorf
+      sin
+      tanf
+      asinf
+      cosf
+      atan2
+      asin
+      atan2f
+      __setusermatherr
+      ... +4 more
+  SmtpMime.dll                             28
+      MimePart::toString
+      EmailAddress::getAddress
+      EmailAddress::<dtor>
+      EmailAddress::<ctor>
+      MimeMessage::<ctor>
+      MimeMessage::<dtor>
+      MimeMessage::setSender
+      MimeText::writeContent
+      MimeFile::writeContent
+      SmtpClient::staticMetaObject
+      MimeAttachment::<ctor>
+      MimeMessage::addRecipient
+      MimeMessage::setSubject
+      MimeMessage::addPart
+      SmtpClient::<ctor>
+      SmtpClient::<dtor>
+      SmtpClient::connectToHost
+      SmtpClient::login
+      SmtpClient::sendMail
+      SmtpClient::quit
+      SmtpClient::waitForReadyConnected
+      SmtpClient::waitForAuthenticated
+      SmtpClient::waitForMailSent
+      SmtpClient::error
+      MimeText::<ctor>
+      ... +3 more
+  api-ms-win-crt-runtime-l1-1-0.dll        28
+      _invalid_parameter_noinfo_noreturn
+      _seh_filter_dll
+      _configure_narrow_argv
+      _initialize_narrow_environment
+      _initialize_onexit_table
+      abort
+      _beginthreadex
+      terminate
+      _register_onexit_function
+      _execute_onexit_table
+      _invalid_parameter_noinfo
+      _errno
+      _register_thread_local_exe_atexit_callback
+      _crt_atexit
+      _crt_at_quick_exit
+      _cexit
+      _seh_filter_exe
+      _set_app_type
+      _get_narrow_winmain_command_line
+      _initterm
+      _initterm_e
+      _invoke_watson
+      strerror_s
+      _exit
+      _c_exit
+      ... +3 more
+  osg161-osgUtil.dll                       26
+      osgUtil::IntersectionVisitor::<ctor>
+      osgUtil::?_DIntersectionVisitor
+      osgUtil::LineSegmentIntersector::<ctor>
+      osgUtil::LineSegmentIntersector::Intersection::<ctor>
+      osgUtil::LineSegmentIntersector::<dtor>
+      osgUtil::LineSegmentIntersector::containsIntersections
+      osgUtil::LineSegmentIntersector::clone
+      osgUtil::LineSegmentIntersector::enter
+      osgUtil::LineSegmentIntersector::leave
+      osgUtil::LineSegmentIntersector::intersect
+      osgUtil::LineSegmentIntersector::intersect
+      osgUtil::LineSegmentIntersector::reset
+      osgUtil::PolytopeIntersector::<ctor>
+      osgUtil::PolytopeIntersector::<dtor>
+      osgUtil::PolytopeIntersector::containsIntersections
+      osgUtil::PolytopeIntersector::clone
+      osgUtil::PolytopeIntersector::enter
+      osgUtil::PolytopeIntersector::leave
+      osgUtil::PolytopeIntersector::intersect
+      osgUtil::PolytopeIntersector::reset
+      osgUtil::LineSegmentIntersector::Intersection::getWorldIntersectPoint
+      osgUtil::LineSegmentIntersector::Intersection::<dtor>
+      osgUtil::Tessellator::<ctor>
+      osgUtil::Tessellator::<dtor>
+      osgUtil::Tessellator::retessellatePolygons
+      ... +1 more
+  simpleble.dll                            24
+      SimpleBLE::Peripheral::address
+      SimpleBLE::Peripheral::rssi
+      SimpleBLE::Adapter::initialized
+      SimpleBLE::Adapter::scan_start
+      SimpleBLE::Adapter::scan_stop
+      SimpleBLE::Adapter::scan_for
+      SimpleBLE::Adapter::scan_is_active
+      SimpleBLE::Adapter::scan_get_results
+      SimpleBLE::Adapter::set_callback_on_scan_found
+      SimpleBLE::Adapter::bluetooth_enabled
+      SimpleBLE::Peripheral::set_callback_on_disconnected
+      SimpleBLE::Peripheral::set_callback_on_connected
+      SimpleBLE::Peripheral::notify
+      SimpleBLE::Peripheral::write_command
+      SimpleBLE::Peripheral::services
+      SimpleBLE::Peripheral::is_connected
+      SimpleBLE::Peripheral::disconnect
+      SimpleBLE::Peripheral::connect
+      SimpleBLE::Peripheral::mtu
+      SimpleBLE::Service::characteristics
+      SimpleBLE::Service::uuid
+      SimpleBLE::Characteristic::uuid
+      SimpleBLE::Adapter::get_adapters
+      SimpleBLE::Peripheral::identifier
+  opencv_world480.dll                      22
+      cv::dilate
+      cv::Mat::empty
+      cv::VideoCapture::<ctor>
+      cv::Mat::zeros
+      cv::getStructuringElement
+      cv::imwrite
+      cv::VideoCapture::get
+      cv::VideoCapture::<dtor>
+      cv::VideoCapture::isOpened
+      cv::cvtColor
+      cv::imread
+      cv::Mat::clone
+      cv::resize
+      cv::?4Mat
+      cv::Mat::zeros
+      cv::flip
+      ?Dcv
+      cv::Mat::ones
+      cv::Mat::<ctor>
+      cv::Mat::<dtor>
+      cv::VideoCapture::release
+      cv::Mat::<ctor>
+  VCRUNTIME140.dll                         22
+      __current_exception_context
+      __std_type_info_destroy_list
+      _CxxThrowException
+      __current_exception
+      __C_specific_handler
+      strchr
+      memchr
+      __std_type_info_compare
+      __RTtypeid
+      _purecall
+      memset
+      memcmp
+      wcsstr
+      strstr
+      __CxxFrameHandler3
+      __std_exception_destroy
+      __std_exception_copy
+      __std_terminate
+      memcpy
+      memmove
+      strrchr
+      __RTDynamicCast
+  api-ms-win-crt-string-l1-1-0.dll         21
+      isdigit
+      _wcsicmp
+      wcscmp
+      isspace
+      strcpy_s
+      strcpy
+      wmemcpy_s
+      strncmp
+      strcspn
+      strspn
+      strcat_s
+      _strdup
+      strncpy_s
+      strcmp
+      strlen
+      wcslen
+      strncpy
+      isalnum
+      tolower
+      isprint
+      toupper
+  api-ms-win-crt-filesystem-l1-1-0.dll     21
+      _wsplitpath_s
+      _wmkdir
+      remove
+      _findclose
+      _findfirst64i32
+      _wremove
+      _findnext64i32
+      _wfindfirst64i32
+      _wfindnext64i32
+      _wrmdir
+      _mkdir
+      _rmdir
+      _stat64i32
+      _unlock_file
+      _lock_file
+      _waccess
+      _access_s
+      _wfullpath
+      _wrename
+      _wstat64i32
+      _access
+  cscalibration.dll                        21
+      CS::Calibration::ClibrationCheckImageBrightness
+      CS::Calibration::CalibrateCheckImageDefinition
+      CS::Calibration::CameraReconstruction::ReconstructionPoints
+      CS::Calibration::CameraReconstruction::ReconstructionPoints
+      CS::Calibration::CameraReconstruction::setIsImage
+      CS::Calibration::CameraReconstruction::getTargetInfo
+      CS::Calibration::CameraReconstruction::setWorkDir
+      CS::Calibration::CameraReconstruction::<dtor>
+      CS::Calibration::CameraReconstruction::<ctor>
+      CS::Calibration::CameraCalibration::CalibrateCheckFrameValid
+      CS::Calibration::CameraCalibration::CalibrationCheckByIndex
+      CS::Calibration::CameraCalibration::CalibrationCheck
+      CS::Calibration::CameraCalibration::CalibrateCheckFrame
+      CS::Calibration::CameraCalibration::CalibrateCameraLCFixedLeft
+      CS::Calibration::CameraCalibration::CalibrateCameraLR
+      CS::Calibration::CameraCalibration::CalibrateCameraLRC
+      CS::Calibration::CameraCalibration::getTargetInfo
+      CS::Calibration::CameraCalibration::setMeasurementValues
+      CS::Calibration::CameraCalibration::setWorkDir
+      CS::Calibration::CameraCalibration::<dtor>
+      CS::Calibration::CameraCalibration::<ctor>
+  Qt5Concurrent.dll                        19
+      QtConcurrent::ThreadEngineBase::isProgressReportingEnabled
+      QtConcurrent::ThreadEngineBase::waitForResume
+      QtConcurrent::ThreadEngineBase::isCanceled
+      QtConcurrent::ThreadEngineBase::startThread
+      QtConcurrent::ThreadEngineBase::setProgressValue
+      QtConcurrent::ThreadEngineBase::setProgressRange
+      QtConcurrent::ThreadEngineBase::<ctor>
+      QtConcurrent::ThreadEngineBase::acquireBarrierSemaphore
+      QtConcurrent::BlockSizeManagerV2::<ctor>
+      QtConcurrent::BlockSizeManagerV2::timeBeforeUser
+      QtConcurrent::BlockSizeManagerV2::timeAfterUser
+      QtConcurrent::BlockSizeManagerV2::blockSize
+      QtConcurrent::ThreadEngineBase::shouldStartThread
+      QtConcurrent::ThreadEngineBase::threadFunction
+      QtConcurrent::ThreadEngineBase::run
+      QtConcurrent::ThreadEngineBase::start
+      QtConcurrent::ThreadEngineBase::finish
+      QtConcurrent::ThreadEngineBase::shouldThrottleThread
+      QtConcurrent::ThreadEngineBase::<dtor>
+  RPAGeometry.dll                          16
+      rpalgo::geometry::PointCloud::<dtor>
+      rpalgo::geometry::PointCloud::hasNormals
+      rpalgo::geometry::PointCloud::hasColors
+      rpalgo::geometry::PointCloud::init
+      rpalgo::geometry::PointCloud::init
+      rpalgo::geometry::PointCloud::init
+      rpalgo::geometry::PointCloud::getCoordList
+      rpalgo::geometry::PointCloud::getNormalList
+      rpalgo::geometry::PointCloud::getColorList
+      rpalgo::geometry::PointCloud::hasGridTopology
+      rpalgo::geometry::TriangleMesh::getTriangleCount
+      rpalgo::geometry::PointCloud::getHeight
+      rpalgo::geometry::PointCloud::getGrid2PointMap
+      rpalgo::geometry::PointCloud::getPoint2GridMap
+      rpalgo::geometry::PointCloud::<ctor>
+      rpalgo::geometry::PointCloud::getWidth
+  3DCamera.dll                             12
+      cs::getCameraPtr
+      leaveRecoveryMode
+      enterRecoveryMode
+      releaseUpgradeCamera
+      getUpgradeCameraProgress
+      upgradeCameraPro
+      cs::restartRpcService
+      cs::setRPCConfig
+      cs::setSdkConfigData
+      cs::getSystemPtr
+      cs::setLogSavePath
+      cs::enableLoging
+  PerfTool.dll                             11
+      PerformanceTester::getProgress
+      PerformanceTester::setConfigData
+      PerformanceTester::<dtor>
+      PerformanceTester::<ctor>
+      PerformanceTester::finishTest
+      PerformanceTester::staticMetaObject
+      PerformanceTester::metaObject
+      PerformanceTester::qt_metacast
+      PerformanceTester::qt_metacall
+      PerformanceTester::run
+      getPerformanceDveiceName
+  USER32.dll                               10
+      GetWindowLongPtrW
+      SetWindowLongPtrW
+      MonitorFromWindow
+      GetMonitorInfoW
+      UnregisterClassW
+      GetProcessWindowStation
+      GetUserObjectInformationW
+      MessageBoxW
+      DefWindowProcW
+      GetSystemMetrics
+  ADVAPI32.dll                             10
+      RegisterEventSourceW
+      ReportEventW
+      CryptAcquireContextW
+      CryptReleaseContext
+      CryptGenRandom
+      RegCloseKey
+      RegEnumKeyExW
+      DeregisterEventSource
+      RegOpenKeyExW
+      RegQueryValueExW
+  api-ms-win-crt-convert-l1-1-0.dll        10
+      strtoul
+      strtol
+      atoi
+      strtoll
+      strtof
+      strtoull
+      wcstombs
+      mbstowcs
+      atof
+      atoll
+  libcurl.dll                               9
+      curl_slist_append
+      curl_easy_reset
+      curl_easy_getinfo
+      curl_easy_cleanup
+      curl_easy_perform
+      curl_easy_setopt
+      curl_easy_init
+      curl_easy_strerror
+      curl_slist_free_all
+  RPACalibLaser.dll                         9
+      rpalgo::calib_laser::CalibLaser::calibrateLaserPlane
+      rpalgo::calib_laser::CalibLaser::setWorkDir
+      rpalgo::calib_laser::CalibLaser::fastAdjustLaserPlane
+      rpalgo::calib_laser::CalibLaser::fastAdjustSingleLaserPlane
+      rpalgo::calib_laser::CalibLaser::calibrateLaserPlaneCheckByIndex
+      rpalgo::calib_laser::CalibLaser::calibrateSingleLaserPlaneCheckByIndex
+      rpalgo::calib_laser::CalibLaser::<ctor>
+      rpalgo::calib_laser::CalibLaser::<dtor>
+      rpalgo::calib_laser::CalibLaser::calibrateSingleLaserPlane
+  qzxing.dll                                8
+      QZXing::encodeData
+      QZXing::<ctor>
+      QZXing::<dtor>
+      QZXing::decodeImage
+      QZXing::setDecoder
+      QZXing::qt_metacall
+      QZXing::qt_metacast
+      QZXing::metaObject
+  imagehlp.dll                              8
+      SymFunctionTableAccess64
+      SymGetSymFromAddr64
+      SymInitialize
+      SymGetLineFromAddr64
+      SymGetModuleBase64
+      SymGetModuleInfo64
+      StackWalk64
+      SymCleanup
+  api-ms-win-crt-heap-l1-1-0.dll            7
+      malloc
+      _callnewh
+      _recalloc
+      _set_new_mode
+      calloc
+      realloc
+      free
+  api-ms-win-crt-time-l1-1-0.dll            7
+      _mktime64
+      strftime
+      _localtime64_s
+      _localtime64
+      _gmtime64_s
+      _mkgmtime64
+      _time64
+  RPACalibrationQR.dll                      6
+      rpalgo::calibrationqr::CalibrationQR::<ctor>
+      rpalgo::calibrationqr::CalibrationQR::SetZThreshold
+      rpalgo::calibrationqr::CalibrationQR::SetYThreshold
+      rpalgo::calibrationqr::CalibrationQR::SetXThreshold
+      rpalgo::calibrationqr::CalibrationQR::Decode
+      rpalgo::calibrationqr::CalibrationQR::<dtor>
+  Qt5WebChannel.dll                         6
+      QWebChannel::metaObject
+      QWebChannel::qt_metacast
+      QWebChannel::qt_metacall
+      QWebChannel::registerObject
+      QWebChannel::<dtor>
+      QWebChannel::<ctor>
+  SHELL32.dll                               6
+      CommandLineToArgvW
+      SHOpenFolderAndSelectItems
+      ShellExecuteW
+      SHFileOperationW
+      
+      
+  RPATexture.dll                            6
+      rpalgo::RPTScene::generateTexture
+      rpalgo::RPTScene::getTextureProgress
+      rpalgo::RPTScene::<dtor>
+      rpalgo::RPTScene::<ctor>
+      rpalgo::RPTScene::setSceneParam
+      rpalgo::RPTScene::resetTextureProgress
+  SETUPAPI.dll                              4
+      SetupDiEnumDeviceInfo
+      SetupDiGetDevicePropertyW
+      SetupDiDestroyDeviceInfoList
+      SetupDiGetClassDevsW
+  CRYPT32.dll                               4
+      CertOpenSystemStoreW
+      CertFreeCertificateContext
+      CertEnumCertificatesInStore
+      CertCloseStore
+  api-ms-win-crt-locale-l1-1-0.dll          4
+      ___lc_codepage_func
+      localeconv
+      setlocale
+      _configthreadlocale
+  assimp-vc142-mt.dll                       4
+      Assimp::Importer::ReadFileFromMemory
+      Assimp::Importer::<ctor>
+      aiScene::<dtor>
+      Assimp::Importer::<dtor>
+  RPALaserAutoExposure.dll                  4
+      rpalgo::laserautoexposure::LaserAutoExposure::Init
+      rpalgo::laserautoexposure::LaserAutoExposure::AutoExposure
+      rpalgo::laserautoexposure::LaserAutoExposure::<dtor>
+      rpalgo::laserautoexposure::LaserAutoExposure::<ctor>
+  RPALaserRecon.dll                         3
+      rpalgo::laser_recon::MultiLaserReconPipelineGPU::getGPUDeviceInfo (vectorcall)
+      rpalgo::laser_recon::MultiLaserReconPipelineGPU::<dtor>
+      rpalgo::laser_recon::MultiLaserReconPipelineGPU::<ctor>
+  RPAFusionTracker.dll                      3
+      rpalgo::fusiontracker::TrackerFrameInfo::<ctor>
+      rpalgo::fusiontracker::TrackerFrameInfo::<dtor>
+      ??3TrackerFrameInfo@fusiontracker@rpalgo@@SAXPEAX@Z
+  ole32.dll                                 3
+      CoCreateGuid
+      CoTaskMemFree
+      CoCreateInstance
+  api-ms-win-crt-utility-l1-1-0.dll         3
+      qsort
+      rand
+      srand
+  RPAAlgoKit.dll                            2
+      rpalgo::algokit::FinalInspect::dumbGaugeDatasCalculate
+      rpalgo::algokit::FinalInspect::<dtor>
+  RPAMeshProc.dll                           2
+      rpalgo::meshproc::MeshDecimate::decimate
+      rpalgo::meshproc::MeshDenoiseSD::denoise
+  RPABridge.dll                             2
+      rpalgo::bridge::MeshConv::toGPP
+      rpalgo::bridge::PointCloudConv::toRPA
+  IPHLPAPI.DLL                              2
+      GetAdaptersAddresses
+      GetAdaptersInfo
+  export_format.dll                         1
+      rv::getModelExportPtr
+  ot21-OpenThreads.dll                      1
+      OpenThreads::?EAtomic
+  OLEAUT32.dll                              1
+      
+  VCOMP140.DLL                              1
+      omp_get_max_threads
+  VCRUNTIME140_1.dll                        1
+      __CxxFrameHandler4
+  aeSharpnessFineAlgorithm.dll              1
+      cs::getAutoExposure
+  RPARegisterLandmark.dll                   1
+      rpalgo::registration::landmark::RegisterLandmark::align
+  RPAMeshRecon.dll                          1
+      rpalgo::meshrecon::triangulate
+  api-ms-win-crt-environment-l1-1-0.dll     1
+      getenv
+==========================================================================================
+3DCamera.dll
+  KERNEL32.dll                            171
+      IsDebuggerPresent
+      RaiseException
+      SetUnhandledExceptionFilter
+      InitializeSListHead
+      VirtualQuery
+      Process32NextW
+      Process32FirstW
+      UnhandledExceptionFilter
+      RtlLookupFunctionEntry
+      RtlCaptureContext
+      GetTickCount64
+      TryAcquireSRWLockShared
+      TryAcquireSRWLockExclusive
+      AcquireSRWLockShared
+      ReleaseSRWLockShared
+      IsProcessorFeaturePresent
+      CreateToolhelp32Snapshot
+      DisableThreadLibraryCalls
+      OpenProcess
+      GetStartupInfoW
+      CreateProcessW
+      GetExitCodeProcess
+      InitializeCriticalSectionEx
+      GetCurrentProcessId
+      GetLastError
+      ... +146 more
+  MSVCP140.dll                            163
+      std::D::DU?$char_traits::?$basic_streambuf::pbump
+      std::D::DU?$char_traits::?$basic_streambuf::_Gnavail
+      std::D::DU?$char_traits::?$basic_streambuf::_Gninc
+      std::D::DU?$char_traits::?$basic_streambuf::_Gndec
+      std::D::DU?$char_traits::?$basic_streambuf::getloc
+      std::?7ios_base
+      DDU_Mbstatet::?$codecvt::_Getcat
+      DDU_Mbstatet::?$codecvt::unshift
+      DDU_Mbstatet::?$codecvt::out
+      DDU_Mbstatet::?$codecvt::in
+      std::codecvt_base::always_noconv
+      std::_Xinvalid_argument
+      std::D::?$collate::id
+      std::D::?$ctype::id
+      std::locale::facet::_Decref
+      std::locale::facet::_Incref
+      Concurrency::details::_TaskEventLogger::_LogWorkItemCompleted
+      Concurrency::details::_TaskEventLogger::_LogWorkItemStarted
+      Concurrency::details::_TaskEventLogger::_LogTaskExecutionCompleted
+      Concurrency::details::_TaskEventLogger::_LogTaskCompleted
+      Concurrency::details::_TaskEventLogger::_LogCancelTask
+      Concurrency::details::_TaskEventLogger::_LogScheduleTask
+      Concurrency::task_continuation_context::<ctor>
+      std::D::DU?$char_traits::?$basic_streambuf::_Pnavail
+      Concurrency::details::_ContextCallback::_Capture
+      ... +138 more
+  api-ms-win-crt-math-l1-1-0.dll           54
+      ceilf
+      lrint
+      sqrt
+      ceil
+      atan2f
+      _dclass
+      frexp
+      atan2
+      _dtest
+      pow
+      acos
+      round
+      llrintf
+      asin
+      _fdopen
+      atan
+      cosh
+      sinh
+      exp2
+      fmod
+      fabs
+      hypot
+      sqrtf
+      floor
+      sin
+      ... +29 more
+  api-ms-win-crt-stdio-l1-1-0.dll          54
+      _read
+      _ftelli64
+      _close
+      fputs
+      ferror
+      __stdio_common_vsnprintf_s
+      _open
+      _open_osfhandle
+      _sopen
+      _get_osfhandle
+      _wsopen
+      feof
+      __stdio_common_vswprintf
+      _locking
+      __stdio_common_vsprintf_s
+      _mktemp_s
+      fgets
+      __acrt_iob_func
+      __stdio_common_vfprintf
+      _write
+      fseek
+      _lseeki64
+      _wfopen
+      fwrite
+      __stdio_common_vsscanf
+      ... +29 more
+  WS2_32.dll                               46
+      inet_pton
+      
+      
+      getaddrinfo
+      freeaddrinfo
+      
+      
+      
+      
+      WSAStringToAddressA
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      getnameinfo
+      WSACloseEvent
+      
+      
+      ... +21 more
+  api-ms-win-crt-string-l1-1-0.dll         36
+      wcscpy_s
+      wcscspn
+      iscntrl
+      strpbrk
+      strtok_s
+      strtok
+      isblank
+      wcscat
+      isxdigit
+      strncpy_s
+      strcat_s
+      islower
+      isupper
+      _strdup
+      _strnicmp
+      _stricmp
+      strcat
+      wcslen
+      wcscpy
+      strncat
+      strspn
+      strcspn
+      strcpy
+      strlen
+      isdigit
+      ... +11 more
+  api-ms-win-crt-runtime-l1-1-0.dll        29
+      exit
+      _initterm
+      _invalid_parameter_noinfo_noreturn
+      _initterm_e
+      _seh_filter_dll
+      _endthread
+      perror
+      _getpid
+      __sys_nerr
+      _beginthread
+      _cexit
+      _configure_narrow_argv
+      _beginthreadex
+      _crt_at_quick_exit
+      _invalid_parameter_noinfo
+      __sys_errlist
+      _set_errno
+      _crt_atexit
+      strerror
+      _initialize_narrow_environment
+      _initialize_onexit_table
+      _wassert
+      abort
+      terminate
+      _execute_onexit_table
+      ... +4 more
+  ADVAPI32.dll                             28
+      RegOpenKeyExA
+      CryptAcquireContextA
+      CryptReleaseContext
+      CryptGenRandom
+      LookupPrivilegeValueW
+      AdjustTokenPrivileges
+      OpenProcessToken
+      CryptHashData
+      CryptEncrypt
+      CryptImportKey
+      CryptDestroyKey
+      CryptAcquireContextW
+      CryptSetHashParam
+      CryptGetHashParam
+      CryptSetProvParam
+      CryptGetProvParam
+      CryptDecrypt
+      CryptCreateHash
+      CryptDestroyHash
+      CryptSignHashA
+      RegCloseKey
+      RegOpenKeyExW
+      RegQueryValueExW
+      GetUserNameA
+      RegEnumValueW
+      ... +3 more
+  USER32.dll                               27
+      DestroyWindow
+      CreateWindowExW
+      UnregisterClassW
+      RegisterClassW
+      DefWindowProcW
+      GetWindowLongPtrW
+      UnregisterDeviceNotification
+      RegisterDeviceNotificationW
+      PeekMessageW
+      DispatchMessageW
+      TranslateMessage
+      PostMessageW
+      SetWindowLongPtrW
+      GetDesktopWindow
+      GetCaretPos
+      GetCursorPos
+      GetCapture
+      GetInputState
+      GetFocus
+      GetActiveWindow
+      GetOpenClipboardWindow
+      GetClipboardViewer
+      GetClipboardOwner
+      GetMessageTime
+      GetMessagePos
+      ... +2 more
+  VCRUNTIME140.dll                         27
+      wcschr
+      __RTDynamicCast
+      __C_specific_handler
+      longjmp
+      __CxxFrameHandler3
+      wcsrchr
+      wcsstr
+      strstr
+      __current_exception_context
+      memcmp
+      memchr
+      memcpy
+      strrchr
+      __std_terminate
+      _purecall
+      __C_specific_handler_noexcept
+      memset
+      memmove
+      __current_exception
+      _CxxThrowException
+      __intrinsic_setjmp
+      __std_type_info_destroy_list
+      __vcrt_GetModuleFileNameW
+      __vcrt_LoadLibraryExW
+      __std_exception_destroy
+      ... +2 more
+  api-ms-win-crt-filesystem-l1-1-0.dll     25
+      _wstat64i32
+      rename
+      _mkdir
+      _access
+      _wmkdir
+      _wrmdir
+      _waccess
+      _lock_file
+      _unlock_file
+      _chdir
+      _fstat64i32
+      _fstat64
+      _stat64i32
+      _wremove
+      _wfindfirst64i32
+      _stat64
+      _rmdir
+      _wfullpath
+      _unlink
+      _wfindnext64i32
+      _findclose
+      _wunlink
+      _wstat64
+      _wrename
+      _chmod
+  api-ms-win-crt-convert-l1-1-0.dll        17
+      strtoll
+      atoi
+      mbrtowc
+      wcrtomb
+      mbsrtowcs
+      atof
+      strtof
+      strtoumax
+      strtol
+      wcstol
+      atol
+      strtod
+      mbstowcs_s
+      wcstombs_s
+      strtoull
+      wcstombs
+      strtoul
+  SETUPAPI.dll                             13
+      SetupDiDestroyDeviceInfoList
+      SetupDiEnumDeviceInterfaces
+      SetupDiGetDeviceInterfaceDetailW
+      SetupDiGetClassDevsW
+      SetupDiGetClassDevsExW
+      SetupDiGetDeviceRegistryPropertyA
+      SetupDiGetClassDevsA
+      SetupDiGetDeviceInterfaceDetailA
+      CM_Get_Parent
+      CM_Get_Device_ID_Size
+      CM_Get_Device_IDW
+      SetupDiGetDeviceRegistryPropertyW
+      SetupDiEnumDeviceInfo
+  api-ms-win-crt-utility-l1-1-0.dll        13
+      bsearch
+      qsort
+      abs
+      llabs
+      _byteswap_ushort
+      rand
+      _lrotl
+      _byteswap_uint64
+      _byteswap_ulong
+      srand
+      _lrotr
+      div
+      labs
+  api-ms-win-crt-time-l1-1-0.dll           13
+      _ftime64
+      _time64
+      _localtime64
+      clock
+      _mktime64
+      _localtime64_s
+      strftime
+      _gmtime64_s
+      _tzset
+      _gmtime64
+      __timezone
+      __daylight
+      _difftime64
+  CRYPT32.dll                               9
+      CertFreeCertificateContext
+      CertEnumCertificatesInStore
+      PFXImportCertStore
+      CertDeleteCertificateFromStore
+      CertGetCertificateContextProperty
+      CertCloseStore
+      CertFindCertificateInStore
+      CertOpenSystemStoreA
+      CertEnumCRLsInStore
+  api-ms-win-crt-heap-l1-1-0.dll            9
+      realloc
+      _recalloc
+      malloc
+      calloc
+      _aligned_malloc
+      _aligned_free
+      free
+      _callnewh
+      _aligned_realloc
+  VCOMP140.DLL                              7
+      omp_init_lock
+      _vcomp_fork
+      _vcomp_for_static_simple_init
+      _vcomp_for_static_end
+      omp_destroy_lock
+      omp_unset_lock
+      omp_set_lock
+  ole32.dll                                 3
+      CoTaskMemFree
+      CoInitializeEx
+      CoUninitialize
+  MFPlat.DLL                                3
+      MFStartup
+      MFCreateAttributes
+      MFShutdown
+  bcrypt.dll                                3
+      BCryptCloseAlgorithmProvider
+      BCryptGenRandom
+      BCryptOpenAlgorithmProvider
+  SHELL32.dll                               3
+      SHGetFolderPathW
+      SHGetSpecialFolderPathA
+      SHGetFolderPathA
+  api-ms-win-crt-environment-l1-1-0.dll     3
+      _putenv
+      getenv_s
+      getenv
+  api-ms-win-crt-locale-l1-1-0.dll          3
+      setlocale
+      localeconv
+      ___mb_cur_max_func
+  MF.dll                                    2
+      MFEnumDeviceSources
+      MFCreateDeviceSource
+  IPHLPAPI.DLL                              2
+      GetAdaptersAddresses
+      GetAdaptersInfo
+  api-ms-win-crt-multibyte-l1-1-0.dll       2
+      _mbsrchr
+      _mbspbrk
+  SHLWAPI.dll                               1
+      
+  MFReadWrite.dll                           1
+      MFCreateSourceReaderFromMediaSource
+  VCRUNTIME140_1.dll                        1
+      __CxxFrameHandler4
+==========================================================================================
+zxPointCloudProcessing64.dll
+  MSVCP140.dll                             85
+      std::D::DU?$char_traits::?$basic_ostream::<ctor>
+      std::D::DU?$char_traits::?$basic_ostream::<dtor>
+      std::D::DU?$char_traits::?$basic_ostream::_Osfx
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?$basic_ostream::put
+      std::D::DU?$char_traits::?$basic_ostream::flush
+      std::_Fiopen
+      std::D::DU?$char_traits::?$basic_streambuf::showmanyc
+      std::D::DU?$char_traits::?$basic_streambuf::xsgetn
+      std::D::DU?$char_traits::?$basic_streambuf::xsputn
+      std::_BADOFF
+      DDU_Mbstatet::?$codecvt::id
+      _Thrd_hardware_concurrency
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?5?$basic_istream
+      std::D::DU?$char_traits::?5?$basic_istream
+      std::D::?$ctype::_Getcat
+      std::ios_base::getloc
+      std::D::DU?$char_traits::?$basic_streambuf::sgetc
+      std::D::DU?$char_traits::?$basic_streambuf::snextc
+      ... +60 more
+  KERNEL32.dll                             27
+      Sleep
+      QueryPerformanceCounter
+      QueryPerformanceFrequency
+      DisableThreadLibraryCalls
+      GetSystemTimeAsFileTime
+      GetCurrentThreadId
+      GetCurrentProcessId
+      IsDebuggerPresent
+      IsProcessorFeaturePresent
+      TerminateProcess
+      GetCurrentProcess
+      SetUnhandledExceptionFilter
+      UnhandledExceptionFilter
+      RtlVirtualUnwind
+      RtlLookupFunctionEntry
+      RtlCaptureContext
+      GetProcAddress
+      GetModuleHandleW
+      CreateEventW
+      WaitForSingleObjectEx
+      ResetEvent
+      SetEvent
+      DeleteCriticalSection
+      LeaveCriticalSection
+      EnterCriticalSection
+      ... +2 more
+  api-ms-win-crt-stdio-l1-1-0.dll          22
+      feof
+      fopen
+      __stdio_common_vfprintf
+      __acrt_iob_func
+      fread
+      __stdio_common_vsprintf
+      fopen_s
+      fseek
+      ftell
+      _get_stream_buffer_pointers
+      fclose
+      fflush
+      fgetc
+      fgetpos
+      fputc
+      fsetpos
+      __stdio_common_vfscanf
+      getc
+      ungetc
+      setvbuf
+      fwrite
+      _fseeki64
+  VCRUNTIME140.dll                         17
+      __CxxFrameHandler3
+      memcpy
+      memmove
+      memset
+      _purecall
+      __std_terminate
+      __std_exception_copy
+      __std_exception_destroy
+      memchr
+      __std_type_info_destroy_list
+      __telemetry_main_return_trigger
+      __telemetry_main_invoke_trigger
+      __vcrt_InitializeCriticalSectionEx
+      __C_specific_handler
+      __RTDynamicCast
+      _CxxThrowException
+      memcmp
+  api-ms-win-crt-math-l1-1-0.dll           15
+      log2
+      tan
+      atan2
+      pow
+      floor
+      _finite
+      acos
+      sqrtf
+      ceil
+      sqrt
+      sin
+      cos
+      log
+      exp
+      asin
+  api-ms-win-crt-runtime-l1-1-0.dll        14
+      _initterm_e
+      _initterm
+      terminate
+      _cexit
+      _invalid_parameter_noinfo
+      _invalid_parameter_noinfo_noreturn
+      exit
+      _seh_filter_dll
+      _initialize_narrow_environment
+      _initialize_onexit_table
+      _register_onexit_function
+      _execute_onexit_table
+      _crt_atexit
+      _errno
+  VCOMP140.DLL                             13
+      omp_get_max_threads
+      omp_get_thread_num
+      _vcomp_atomic_sub_i4
+      _vcomp_fork
+      _vcomp_set_num_threads
+      _vcomp_atomic_add_i4
+      _vcomp_atomic_add_r8
+      _vcomp_enter_critsect
+      _vcomp_for_static_end
+      _vcomp_for_static_simple_init
+      _vcomp_leave_critsect
+      _vcomp_reduction_r8
+      omp_get_num_threads
+  api-ms-win-crt-heap-l1-1-0.dll            4
+      _callnewh
+      realloc
+      free
+      malloc
+  api-ms-win-crt-string-l1-1-0.dll          4
+      strtok_s
+      strtok
+      tolower
+      _strdup
+  api-ms-win-crt-utility-l1-1-0.dll         3
+      rand
+      qsort
+      ldiv
+  api-ms-win-crt-filesystem-l1-1-0.dll      2
+      _unlock_file
+      _lock_file
+  api-ms-win-crt-time-l1-1-0.dll            2
+      _time64
+      _ctime64
+  api-ms-win-crt-convert-l1-1-0.dll         2
+      atof
+      atoi
+==========================================================================================
+simpleble.dll
+  MSVCP140.dll                             58
+      std::_Locinfo::_Getfalse
+      std::_Locinfo::_Gettrue
+      std::locale::?Bid
+      std::locale::facet::<ctor>
+      std::locale::facet::<dtor>
+      std::locale::_Init
+      std::locale::_Getgloballocale
+      std::locale::facet::_Decref
+      std::locale::facet::_Incref
+      std::D::?$numpunct::id
+      std::_Xbad_function_call
+      std::_Execute_once
+      std::_Syserror_map
+      _Mtx_init_in_situ
+      _Mtx_destroy_in_situ
+      _Mtx_lock
+      _Mtx_unlock
+      std::_Throw_C_error
+      std::_Xout_of_range
+      _Xtime_get_ticks
+      _Thrd_sleep
+      _Mtx_current_owns
+      _Cnd_init_in_situ
+      std::_Locinfo::<dtor>
+      _Cnd_timedwait
+      ... +33 more
+  api-ms-win-crt-runtime-l1-1-0.dll        13
+      _crt_atexit
+      _invalid_parameter_noinfo_noreturn
+      _cexit
+      _register_onexit_function
+      _initialize_onexit_table
+      _configure_narrow_argv
+      _initterm
+      _seh_filter_dll
+      _initterm_e
+      _execute_onexit_table
+      _initialize_narrow_environment
+      _errno
+      terminate
+  VCRUNTIME140.dll                         12
+      __std_type_info_destroy_list
+      __C_specific_handler
+      __std_terminate
+      __std_exception_copy
+      memset
+      memmove
+      memcpy
+      __std_exception_destroy
+      memcmp
+      memchr
+      __CxxFrameHandler3
+      _CxxThrowException
+  KERNEL32.dll                              8
+      GetLastError
+      InterlockedPushEntrySList
+      WaitForSingleObject
+      GetProcessHeap
+      HeapFree
+      WideCharToMultiByte
+      MultiByteToWideChar
+      FormatMessageW
+  api-ms-win-core-synch-l1-1-0.dll          8
+      InitializeCriticalSectionAndSpinCount
+      LeaveCriticalSection
+      DeleteCriticalSection
+      CreateEventW
+      WaitForSingleObjectEx
+      ResetEvent
+      SetEvent
+      EnterCriticalSection
+  api-ms-win-core-winrt-string-l1-1-0.dll    7
+      WindowsDeleteString
+      WindowsPromoteStringBuffer
+      WindowsGetStringRawBuffer
+      WindowsCreateStringReference
+      WindowsDeleteStringBuffer
+      WindowsPreallocateStringBuffer
+      WindowsCreateString
+  api-ms-win-crt-math-l1-1-0.dll            6
+      _dtest
+      _fdsign
+      _ldtest
+      _dsign
+      _ldsign
+      _fdtest
+  api-ms-win-crt-stdio-l1-1-0.dll           5
+      fwrite
+      __stdio_common_vsnprintf_s
+      __acrt_iob_func
+      __stdio_common_vsscanf
+      __stdio_common_vsprintf
+  api-ms-win-core-processthreads-l1-1-0.dll    4
+      TerminateProcess
+      GetCurrentProcessId
+      GetCurrentProcess
+      GetCurrentThreadId
+  api-ms-win-crt-heap-l1-1-0.dll            4
+      malloc
+      _callnewh
+      free
+      calloc
+  api-ms-win-core-libraryloader-l1-2-0.dll    3
+      GetModuleHandleW
+      GetProcAddress
+      DisableThreadLibraryCalls
+  api-ms-win-core-rtlsupport-l1-1-0.dll     3
+      RtlCaptureContext
+      RtlVirtualUnwind
+      RtlLookupFunctionEntry
+  ole32.dll                                 3
+      CoGetApartmentType
+      CoCreateFreeThreadedMarshaler
+      CoIncrementMTAUsage
+  api-ms-win-core-errorhandling-l1-1-0.dll    2
+      UnhandledExceptionFilter
+      SetUnhandledExceptionFilter
+  OLEAUT32.dll                              2
+      
+      
+  api-ms-win-core-winrt-error-l1-1-0.dll    2
+      GetRestrictedErrorInfo
+      SetRestrictedErrorInfo
+  api-ms-win-core-winrt-l1-1-0.dll          2
+      RoInitialize
+      RoGetActivationFactory
+  api-ms-win-core-handle-l1-1-0.dll         1
+      CloseHandle
+  api-ms-win-core-processthreads-l1-1-1.dll    1
+      IsProcessorFeaturePresent
+  api-ms-win-core-debug-l1-1-0.dll          1
+      IsDebuggerPresent
+  api-ms-win-core-profile-l1-1-0.dll        1
+      QueryPerformanceCounter
+  api-ms-win-core-sysinfo-l1-1-0.dll        1
+      GetSystemTimeAsFileTime
+  api-ms-win-core-interlocked-l1-1-0.dll    1
+      InitializeSListHead
+  api-ms-win-crt-locale-l1-1-0.dll          1
+      localeconv
+  api-ms-win-crt-string-l1-1-0.dll          1
+      iswspace
+  api-ms-win-core-winrt-error-l1-1-1.dll    1
+      RoOriginateLanguageException
+==========================================================================================
+cspcpp.dll
+  zxPointCloudProcessing64.dll            410
+      GPP::ConsolidatePointCloud::SmoothGeometry
+      GPP::AlignPointCloud::Align
+      GPP::AlignNoMarkParm::<dtor>
+      GPP::AlignNoMarkParm::<ctor>
+      GPP::NNQuery::Find1NN
+      GPP::NNQuery::FindKNN
+      GPP::NNQuery::Init
+      GPP::NNQuery::<dtor>
+      GPP::NNQuery::<ctor>
+      GPP::SamplePointCloud::UniformSample
+      GPP::SampleGrid::UniformSample
+      GPP::PointCloudNormal::Smooth
+      GPP::PointCloudNormal::Compute
+      GPP::KeepPointCloudElements
+      GPP::PointCloudInfo::<dtor>
+      GPP::PointCloudInfo::<ctor>
+      GPP::?4PointCloud (thiscall)
+      GPP::PointCloud::<ctor>
+      GPP::PointCloud::<dtor>
+      GPP::PointCloud::GetNormalZList (stdcall)
+      GPP::PointCloud::GetNormalYList (stdcall)
+      GPP::PointCloud::GetNormalXList (stdcall)
+      GPP::PointCloud::GetNormalZList (stdcall)
+      GPP::PointCloud::GetNormalYList (stdcall)
+      GPP::PointCloud::GetNormalXList (stdcall)
+      ... +385 more
+  MSVCP140.dll                            181
+      __ExceptionPtrCurrentException
+      __ExceptionPtrToBool
+      __ExceptionPtrAssign
+      __ExceptionPtrCopy
+      __ExceptionPtrDestroy
+      __ExceptionPtrCreate
+      std::_Throw_Cpp_error
+      _Mtx_unlock
+      _Mtx_lock
+      std::setw
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::ios_base::setf
+      std::D::DU?$char_traits::?$basic_istream::getline
+      std::D::DU?$char_traits::?5?$basic_istream
+      std::ios_base::precision
+      std::ios_base::setf
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::D::DU?$char_traits::?6?$basic_ostream
+      std::_Fiopen
+      std::_Fiopen
+      std::D::DU?$char_traits::?$basic_istream::tellg
+      std::D::DU?$char_traits::?$basic_istream::seekg
+      std::D::DU?$char_traits::?$basic_ios::clear
+      std::D::DU?$char_traits::?$basic_streambuf::sbumpc
+      std::D::DU?$char_traits::?$basic_streambuf::getloc
+      ... +156 more
+  opencv_world480.dll                     135
+      cv::?4Mat (thiscall)
+      cv::Mat::create
+      cv::MatExpr::inv
+      cv::FileStorage::isOpened
+      cv::write
+      ?6cv
+      cv::Exception::<dtor>
+      cv::Exception::what
+      cv::cvtColor
+      cv::findContours
+      cv::Mat::<ctor>
+      cv::minEnclosingCircle
+      cv::getDefaultNewCameraMatrix
+      cv::pyrMeanShiftFiltering
+      cv::threshold
+      cv::morphologyEx
+      cv::erode
+      cv::HoughCircles
+      cv::medianBlur
+      cv::getStructuringElement
+      cv::imwrite
+      cv::?4Mat
+      cv::Mat::copyTo
+      cv::Mat::clone
+      cv::noArray
+      ... +110 more
+  KERNEL32.dll                             94
+      GetStartupInfoW
+      IsDebuggerPresent
+      IsProcessorFeaturePresent
+      TerminateProcess
+      GetCurrentProcess
+      SetUnhandledExceptionFilter
+      UnhandledExceptionFilter
+      RtlVirtualUnwind
+      RtlLookupFunctionEntry
+      RtlCaptureContext
+      DisableThreadLibraryCalls
+      GetTickCount64
+      SleepConditionVariableSRW
+      TryAcquireSRWLockShared
+      TryAcquireSRWLockExclusive
+      AcquireSRWLockShared
+      AcquireSRWLockExclusive
+      ReleaseSRWLockShared
+      ReleaseSRWLockExclusive
+      InitOnceComplete
+      InitOnceBeginInitialize
+      GetModuleHandleW
+      WakeAllConditionVariable
+      InitializeSListHead
+      FlushFileBuffers
+      ... +69 more
+  api-ms-win-crt-math-l1-1-0.dll           30
+      _dtest
+      pow
+      atan
+      powf
+      log10
+      cosf
+      roundf
+      ceilf
+      log
+      sinf
+      atan2f
+      asinf
+      log2
+      acosf
+      cos
+      sin
+      sqrtf
+      _dclass
+      _fdclass
+      floorf
+      acos
+      asin
+      ceil
+      floor
+      tanf
+      ... +5 more
+  api-ms-win-crt-stdio-l1-1-0.dll          27
+      __stdio_common_vfprintf
+      fseek
+      ftell
+      ungetc
+      setvbuf
+      fwrite
+      _fseeki64
+      fsetpos
+      fread
+      fputc
+      fgetpos
+      fgetc
+      fflush
+      fclose
+      _get_stream_buffer_pointers
+      __acrt_iob_func
+      __stdio_common_vsprintf
+      fgets
+      fopen_s
+      __stdio_common_vsprintf_s
+      feof
+      _wfopen
+      __stdio_common_vfwprintf
+      __stdio_common_vswprintf
+      fopen
+      ... +2 more
+  WS2_32.dll                               23
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+  api-ms-win-crt-runtime-l1-1-0.dll        20
+      abort
+      exit
+      _errno
+      _invalid_parameter_noinfo_noreturn
+      _initterm_e
+      _initterm
+      _beginthreadex
+      terminate
+      _cexit
+      _invoke_watson
+      _crt_at_quick_exit
+      _crt_atexit
+      _execute_onexit_table
+      _invalid_parameter_noinfo
+      _endthreadex
+      _register_onexit_function
+      _initialize_onexit_table
+      _initialize_narrow_environment
+      _configure_narrow_argv
+      _seh_filter_dll
+  VCRUNTIME140.dll                         19
+      strstr
+      __C_specific_handler
+      _CxxThrowException
+      strchr
+      __CxxFrameHandler3
+      _purecall
+      __RTDynamicCast
+      memchr
+      __current_exception
+      __current_exception_context
+      memset
+      memmove
+      memcpy
+      strrchr
+      memcmp
+      __std_exception_destroy
+      __std_exception_copy
+      __std_terminate
+      __std_type_info_destroy_list
+  VCOMP140.DLL                             17
+      _vcomp_for_static_end
+      _vcomp_reduction_r4
+      _vcomp_atomic_add_r8
+      omp_get_num_threads
+      omp_get_max_threads
+      omp_get_thread_num
+      _vcomp_atomic_sub_i4
+      _vcomp_fork
+      _vcomp_set_num_threads
+      _vcomp_enter_critsect
+      _vcomp_atomic_add_i4
+      _vcomp_for_static_simple_init
+      _vcomp_leave_critsect
+      _vcomp_reduction_r8
+      _vcomp_reduction_i4
+      omp_get_num_procs
+      _vcomp_atomic_add_r4
+  api-ms-win-crt-filesystem-l1-1-0.dll     17
+      _lock_file
+      _unlock_file
+      _findclose
+      _access
+      _findfirst64i32
+      _findnext64i32
+      _mkdir
+      _wremove
+      remove
+      _wmkdir
+      _wrmdir
+      _wfindnext64i32
+      _wfindfirst64i32
+      _waccess
+      _wstat64i32
+      _rmdir
+      _wrename
+  RPAFusionLandmark.dll                    14
+      rpalgo::fusionlandmark::FusionLandmark::Param::<ctor>
+      rpalgo::fusionlandmark::FusionLandmark::<conversion>
+      ??3FusionLandmark@fusionlandmark@rpalgo@@SAXPEAX@Z
+      rpalgo::fusionlandmark::FusionLandmark::<ctor>
+      rpalgo::fusionlandmark::FusionLandmark::<dtor>
+      rpalgo::fusionlandmark::FusionLandmark::init
+      rpalgo::fusionlandmark::FusionLandmark::addFrame
+      rpalgo::fusionlandmark::FusionLandmark::getGlobalMarkers
+      rpalgo::fusionlandmark::FusionLandmark::setFrameEnable
+      rpalgo::fusionlandmark::FusionLandmark::alignFrame
+      rpalgo::fusionlandmark::FusionLandmark::clear
+      rpalgo::fusionlandmark::FusionLandmark::globalOptimize
+      rpalgo::fusionlandmark::FusionLandmark::setTargetLandmarks
+      rpalgo::fusionlandmark::FusionLandmark::getGlobalLandmarks
+  RPAGeometry.dll                          13
+      rpalgo::geometry::PointCloud::init
+      rpalgo::geometry::Landmark::<ctor>
+      rpalgo::geometry::Landmark::<ctor>
+      rpalgo::geometry::Landmark::<ctor>
+      rpalgo::geometry::PointCloud::getPoint2GridMap
+      rpalgo::geometry::PointCloud::getGrid2PointMap
+      rpalgo::geometry::PointCloud::getHeight
+      rpalgo::geometry::PointCloud::getWidth
+      rpalgo::geometry::PointCloud::hasGridTopology
+      rpalgo::geometry::PointCloud::getNormalList
+      rpalgo::geometry::PointCloud::getCoordList
+      rpalgo::geometry::PointCloud::init
+      rpalgo::geometry::PointCloud::hasNormals
+  api-ms-win-crt-string-l1-1-0.dll         11
+      strncpy
+      strcpy
+      strspn
+      strncmp
+      strcspn
+      wcscmp
+      strcmp
+      _strdup
+      strlen
+      wcslen
+      tolower
+  api-ms-win-crt-heap-l1-1-0.dll            8
+      malloc
+      free
+      calloc
+      _msize
+      _aligned_malloc
+      _callnewh
+      _aligned_free
+      realloc
+  RPAFusionTracker.dll                      6
+      ??3FusionTracker@fusiontracker@rpalgo@@SAXPEAX@Z
+      rpalgo::fusiontracker::FusionTracker::<ctor>
+      rpalgo::fusiontracker::FusionTracker::<dtor>
+      rpalgo::fusiontracker::FusionTracker::SetTrackingType
+      rpalgo::fusiontracker::FusionTracker::PushFrame
+      rpalgo::fusiontracker::FusionTracker::<conversion>
+  api-ms-win-crt-convert-l1-1-0.dll         5
+      strtod
+      atoi
+      wcstombs
+      atof
+      mbstowcs
+  api-ms-win-crt-time-l1-1-0.dll            5
+      clock
+      strftime
+      _time64
+      _localtime64
+      _localtime64_s
+  RPARegisterLandmark.dll                   2
+      rpalgo::registration::landmark::RegisterLandmark::align
+      rpalgo::registration::landmark::GlobalMarkers::getLandmarks
+  IPHLPAPI.DLL                              2
+      GetAdaptersInfo
+      GetAdaptersAddresses
+  api-ms-win-crt-utility-l1-1-0.dll         2
+      srand
+      rand
+  markerDetectionByJH.dll                   1
+      cs::getMarkerExtraction
+  markerMatchByEpipolar.dll                 1
+      cs::getMatchMarkers
+  markerFusionByTriangle.dll                1
+      cs::getFusionPtr
+  VCRUNTIME140_1.dll                        1
+      __CxxFrameHandler4
+  api-ms-win-crt-locale-l1-1-0.dll          1
+      setlocale
+==========================================================================================
+export_format.dll
+  MSVCP140.dll                            116
+      std::D::DU?$char_traits::?$basic_streambuf::setbuf
+      std::D::DU?$char_traits::?$basic_streambuf::uflow
+      std::D::DU?$char_traits::?$basic_streambuf::_Unlock
+      std::D::DU?$char_traits::?$basic_streambuf::_Lock
+      std::D::DU?$char_traits::?$basic_streambuf::sync
+      std::D::DU?$char_traits::?$basic_streambuf::imbue
+      std::_Lockit::<ctor>
+      std::_Lockit::<dtor>
+      std::_Xbad_alloc
+      std::_Xlength_error
+      std::_Xout_of_range
+      std::uncaught_exception
+      _Mtx_lock
+      _Mtx_unlock
+      std::_Throw_Cpp_error
+      std::_Locinfo::_Getcvt
+      std::_Locinfo::_W_Getdays
+      std::_Locinfo::_W_Getmonths
+      std::locale::_Getgloballocale
+      std::codecvt_base::always_noconv
+      DDU_Mbstatet::?$codecvt::in
+      DDU_Mbstatet::?$codecvt::out
+      DDU_Mbstatet::?$codecvt::unshift
+      DDU_Mbstatet::?$codecvt::_Getcat
+      std::ios_base::good
+      ... +91 more
+  KERNEL32.dll                             23
+      GetSystemTimeAsFileTime
+      GetCurrentThreadId
+      GetCurrentProcessId
+      QueryPerformanceCounter
+      IsProcessorFeaturePresent
+      TerminateProcess
+      GetCurrentProcess
+      DisableThreadLibraryCalls
+      UnhandledExceptionFilter
+      RtlVirtualUnwind
+      RtlLookupFunctionEntry
+      RtlCaptureContext
+      SleepConditionVariableSRW
+      WakeAllConditionVariable
+      AcquireSRWLockExclusive
+      ReleaseSRWLockExclusive
+      InitializeSListHead
+      IsDebuggerPresent
+      GetStartupInfoW
+      SetUnhandledExceptionFilter
+      GetDiskFreeSpaceExW
+      GetDiskFreeSpaceExA
+      GetModuleHandleW
+  api-ms-win-crt-stdio-l1-1-0.dll          18
+      fputc
+      fclose
+      _get_stream_buffer_pointers
+      fgetc
+      fgetpos
+      fread
+      __acrt_iob_func
+      fsetpos
+      _wfopen_s
+      _fseeki64
+      fwrite
+      setvbuf
+      ungetc
+      __stdio_common_vfprintf
+      ftell
+      fseek
+      fflush
+      fopen_s
+  assimp-vc142-mt.dll                      17
+      Assimp::Intern::AllocateFromAssimpHeap::<conversion>
+      Assimp::Exporter::<ctor>
+      Assimp::Exporter::SetProgressHandler
+      Assimp::Exporter::Export
+      ??3AllocateFromAssimpHeap@Intern@Assimp@@SAXPEAX@Z
+      Assimp::Exporter::<dtor>
+      aiMaterial::<ctor>
+      aiMaterial::AddBinaryProperty
+      aiMaterial::AddProperty
+      aiNode::<ctor>
+      Assimp::DefaultLogger::get
+      Assimp::Logger::warn
+      Assimp::Logger::verboseDebug
+      Assimp::Logger::debug
+      aiNode::FindNode
+      aiScene::<dtor>
+      aiScene::<ctor>
+  VCRUNTIME140.dll                         15
+      __current_exception
+      __C_specific_handler
+      memset
+      memcmp
+      __std_type_info_destroy_list
+      __current_exception_context
+      _purecall
+      __std_terminate
+      __std_exception_copy
+      __std_exception_destroy
+      _CxxThrowException
+      memchr
+      memcpy
+      memmove
+      strchr
+  api-ms-win-crt-filesystem-l1-1-0.dll     15
+      _lock_file
+      _wmkdir
+      _wremove
+      _unlock_file
+      _findnext64i32
+      _findfirst64i32
+      _findclose
+      _access
+      _rmdir
+      _mkdir
+      _wrmdir
+      _wfindnext64i32
+      _wfindfirst64i32
+      _waccess
+      remove
+  api-ms-win-crt-runtime-l1-1-0.dll        13
+      _seh_filter_dll
+      _configure_narrow_argv
+      _invoke_watson
+      _initterm_e
+      _initterm
+      _initialize_onexit_table
+      _register_onexit_function
+      terminate
+      _execute_onexit_table
+      _crt_atexit
+      _crt_at_quick_exit
+      _cexit
+      _initialize_narrow_environment
+  zxPointCloudProcessing64.dll              8
+      GPP::?AVector3
+      GPP::Vector3::<dtor>
+      GPP::?AColor4
+      GPP::TriMesh::HasVertexColor
+      GPP::TriMesh::HasVertexTexCoord
+      GPP::TriMesh::HasTriangleTexCoord
+      GPP::TriMesh::GetVertexColor
+      GPP::TriMesh::GetTriangleTexcoord
+  api-ms-win-crt-heap-l1-1-0.dll            5
+      malloc
+      calloc
+      _callnewh
+      realloc
+      free
+  api-ms-win-crt-string-l1-1-0.dll          5
+      strlen
+      wcslen
+      wcscmp
+      strcmp
+      tolower
+  ADVAPI32.dll                              4
+      RegEnumKeyExW
+      RegOpenKeyExW
+      RegQueryValueExW
+      RegCloseKey
+  api-ms-win-crt-convert-l1-1-0.dll         2
+      wcstombs
+      mbstowcs
+  VCRUNTIME140_1.dll                        1
+      __CxxFrameHandler4
+  api-ms-win-crt-math-l1-1-0.dll            1
+      sqrtf
+  api-ms-win-crt-locale-l1-1-0.dll          1
+      setlocale

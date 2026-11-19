@@ -1,0 +1,17 @@
+# callers of key network helpers (activation/OTA triggers)
+
+## callers of FUN_140753740 : 0
+
+## callers of FUN_140752580 : 0
+
+## callers of FUN_1403ce3a0 : 0
+
+## callers of FUN_1403c7c30 : 0
+
+## callers of FUN_1407521d0 : 0
+
+## callers of FUN_14049e2b0 : 0
+
+## callers of FUN_1405bd560 : 0
+
+## callers of FUN_1403d94b0 : 0
