@@ -173,3 +173,45 @@ frameFlag, timestamp, factTimestamp, dataLen).
 2. **Q matrix / intrinsics** — pull from device (`getIntrinsics` + the Q-mat command)
    via the client; not in the app bundle (device-side `/data/camparam/`).
 3. **Exact frame-header field order/types** and the **depth-validity window** constants.
+
+---
+
+## cs::recdCamera vtable (found, 2026-07-19)
+
+The depth pipeline is the **`cs::recdCamera`** class. Its vtable (55 methods) was
+located at Ghidra `0x18322cd98` by scanning resolved memory for pointer-tables
+targeting `.text`. Every entry is a 5-byte `jmp` thunk → the real method.
+**All 51 substantive methods are decompiled** → `analysis/depth/vtblNN_<addr>.c`
+(index: `VTABLE_RESOLUTION.txt`).
+
+The known reconstruct chain maps to these slots:
+| slot | real addr | size | role |
+|---|---|---|---|
+| 35 | `0x18122e1d0` | 166 | reconstruct wrapper (small) |
+| 36 | `0x181241c30` | 332 | reconstruct wrapper (stack cookie) |
+| 53 | `0x18122e020` | 338 | reconstruct wrapper (stack cookie) |
+| 54 | `0x18122dfa0` | 91  | helper |
+
+## CPAIR/PMCZ decoder — static hunt endpoint
+
+The decoders (`processDepthMjpgToCpair` / `processDepthMjpgToPmcz`) are **among
+these 55 methods** but could **not be pinned statically**, via three independent
+attempts:
+1. **String xrefs** — the log strings ("transform into STREAM_FORMAT_CPAIR",
+   "PMCZ decoder not initialized", …) are linked to functions through an **opaque
+   integer message-ID catalog**, not address pointers. No 8-byte pointer to any of
+   them exists in the image → no xref to build.
+2. **Call-graph (up)** — the public entry points are vtable-dispatched; the static
+   `featureReconstruct` chain has no direct (E8) callers beyond its own thunks.
+3. **Table-entry xref** — the message catalog is indexed, so `getReferencesTo` on
+   the string (and on any candidate table slot) yields nothing.
+
+**Conclusion / how to close it:**
+- **Reprojection + data model: SOLVED** (above) — this is the conceptually hard part.
+- **Exact CPAIR/PMCZ byte-packing: confirm by capture** — grab one raw depth frame
+  (USBPcap, Track A), and match it against the stock app's saved PLY. The packing
+  (pair stride, baseline source, compression) falls out directly, and it validates
+  the solved reprojection end-to-end.
+- A data-flow angle remains (the decoder is the vtable method that *writes* the
+  float `[value, baseline]` array that `featureReconstruct` *reads*) — doable by
+  comparing the 51 decompiled methods, but low-yield vs. a single capture.

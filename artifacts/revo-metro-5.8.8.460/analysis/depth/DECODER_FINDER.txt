@@ -1,0 +1,11 @@
+string	stringaddr	table_entry	fn_addr	fn_size
+cpair_init	0x183256744	-	-	-
+cpair_jpeg	0x183256704	-	-	-
+cpair_caminfo	0x183254bdc	-	-	-
+cpair_xform	0x183234f7d	-	-	-
+cpair_thread	0x18324d22c	-	-	-
+pmcz_init	0x1832567e4	-	-	-
+pmcz_head	0x1832596ec	-	-	-
+pmcz_ir	0x18324407c	-	-	-
+depth_rate	0x18323d194	-	-	-
+recon_valid	0x18322fbec	-	-	-
