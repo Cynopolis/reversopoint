@@ -1,22 +1,16 @@
 {
   "_comment": "Fill these in after the on-device capture in protocol/CAPTURE.md. metrox_rpc.py reads this file automatically. host/port may also be passed as CLI args (args win).",
-
   "host": "192.168.3.99",
   "port": 0,
-
   "framing": "bare",
-  "_framing_help": "how a JSON request is delimited on the wire. Options: 'bare' (raw JSON, no delimiter), 'newline' (JSON + \\n), 'length32' (4-byte little-endian length prefix), 'length16' (2-byte LE length prefix). Determine from the capture — see CAPTURE.md step 1.",
-
+  "_framing_help": "how a JSON request is delimited on the wire. Options: 'bare' (raw JSON, no delimiter), 'newline' (JSON + \\n), 'length32' (4-byte little-endian length prefix), 'length16' (2-byte LE length prefix). Determine from the capture \u2014 see CAPTURE.md step 1.",
   "response_timeout_ms": 5000,
-
   "propertyTypes": {},
-  "_propertyTypes_help": "integer propertyType IDs discovered on the device, e.g. { \"exposure\": 1512, \"gain\": 1513, \"resolution\": 1600, \"triggerMode\": 1700 }. Enumerate with getProperty/getPropertyRange or from the capture. Leave {} if unknown — getProperty/setProperty still work with a raw int.",
-
+  "_propertyTypes_help": "integer propertyType IDs discovered on the device, e.g. { \"exposure\": 1512, \"gain\": 1513, \"resolution\": 1600, \"triggerMode\": 1700 }. Enumerate with getProperty/getPropertyRange or from the capture. Leave {} if unknown \u2014 getProperty/setProperty still work with a raw int.",
   "stream": {
     "frame_delimiter": "mjpg_eoi"
   },
-  "_stream_help": "how depth/RGB frames are delimited after startStream. Options: 'mjpg_eoi' (read until MJPG 0xFFD9 marker — default) or 'length_header' (4-byte LE length prefix). Determine from the capture.",
-
+  "_stream_help": "how depth/RGB frames are delimited after startStream. Options: 'mjpg_eoi' (read until MJPG 0xFFD9 marker \u2014 default) or 'length_header' (4-byte LE length prefix). Determine from the capture.",
   "usb": {
     "vid": 0,
     "pid": 0,
@@ -27,5 +21,17 @@
     "ctrl_ep_out": null,
     "data_ep_in": null,
     "_help": "Filled from `lsusb` / `lsusb -v` (USB section of protocol/CAPTURE.md). vid/pid are 0xXXXX (the SDK finds the device via the USB\\VID_xxxx&PID_xxxx&MI_xx instance id; MI = interface number). control_iface/data_iface are the MI numbers for the control-HID and data interfaces. If null, metrox_usb.py auto-picks interrupt/bulk endpoints. See PROTOCOL-USB.md."
+  },
+  "depth": {
+    "_help": "Filled from the device (getIntrinsics + Q-mat command) / a capture. See DEPTH-DECODE.md. Q = 4x4 back-projection matrix (row-major). cu/cv/cz normalize u/v/depth. win_* = depth validity window. near/far = featureReconstruct direction-normalize thresholds.",
+    "Q": null,
+    "cu": 1.0,
+    "cv": 1.0,
+    "cz": 1.0,
+    "win_offset": 0.0,
+    "win_cmp": 0.25,
+    "w_num": 1.0,
+    "near": null,
+    "far": null
   }
 }
